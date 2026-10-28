@@ -837,6 +837,37 @@ var miaecData = ${JSON.stringify(databaseRecords, null, 2)};
 
   fs.writeFileSync(sitemapPath, xml, 'utf8');
   console.log(`✓ Generated sitemap.xml with ${sitemapUrls.length} URLs!`);
+
+  // Write rss.xml (RSS 2.0 Syndication Feed)
+  const rssPath = path.join(__dirname, 'rss.xml');
+  const nowRfc = new Date().toUTCString();
+  let rssXml = `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NortheastAEC™ — Building Science &amp; Envelope Specifications</title>
+    <link>https://northeastaec.com</link>
+    <description>Independent building science publication analyzing historic fieldstone basement restoration, Cape Cod knee wall air-sealing, slate roof preservation, and fuel oil to cold-climate heat pump decarbonization across the Northeast.</description>
+    <language>en-us</language>
+    <lastBuildDate>${nowRfc}</lastBuildDate>
+    <atom:link href="https://northeastaec.com/rss.xml" rel="self" type="application/rss+xml" />
+`;
+
+  databaseRecords.forEach(r => {
+    const cleanTitle = (r.title || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    const cleanDesc = (r.summary || r.subtitle || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    const itemUrl = `https://northeastaec.com/${r.url}`;
+    rssXml += `    <item>
+      <title>${cleanTitle}</title>
+      <link>${itemUrl}</link>
+      <guid isPermaLink="true">${itemUrl}</guid>
+      <description>${cleanDesc}</description>
+      <category>${(r.category || 'Building Science').replace(/&/g, '&amp;')}</category>
+    </item>\n`;
+  });
+
+  rssXml += `  </channel>\n</rss>\n`;
+  fs.writeFileSync(rssPath, rssXml, 'utf8');
+  console.log(`✓ Generated rss.xml with ${databaseRecords.length} specifications!`);
 }
 
 build();
