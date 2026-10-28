@@ -54,7 +54,7 @@
       <div class="flex items-center gap-2">
         <span class="text-slate-400 uppercase tracking-widest font-semibold">AEC Media Network:</span>
         <div class="flex items-center gap-3 overflow-x-auto">
-          <a href="https://northeastaec.com" class="hover:text-white transition">Midwest</a>
+          <a href="https://midwestaec.com" class="hover:text-white transition">Midwest</a>
           <span class="text-slate-700">•</span>
           <a href="https://northwestaec.com" class="hover:text-white transition">Northwest</a>
           <span class="text-slate-700">•</span>
@@ -83,7 +83,7 @@
             <div class="text-xl font-bold tracking-tight text-navy font-serif leading-none">
               Northeast<span class="text-steel">AEC</span><span class="text-xs text-slate-400 font-sans font-normal ml-0.5">™</span>
             </div>
-            <p class="text-[10px] font-mono text-slate-500 uppercase tracking-widest mt-1">Midwest Building Science</p>
+            <p class="text-[10px] font-mono text-slate-500 uppercase tracking-widest mt-1">Northeast Building Science</p>
           </div>
         </a>
       </div>
@@ -112,7 +112,7 @@
         All Guides & Specifications
       </h1>
       <p class="text-slate-600 text-sm mt-2 font-sans max-w-2xl" id="page-desc">
-        Curated engineering specifications, building envelope assemblies, and practical trade teardowns across the Midwest.
+        Curated engineering specifications, building envelope assemblies, and practical trade teardowns across the Northeast.
       </p>
     </div>
 
@@ -127,22 +127,22 @@
         <div>
           <label class="block text-[10px] font-mono uppercase text-slate-500 mb-1">City / Metro (A-Z)</label>
           <select id="filter-city" onchange="applyFilters()" class="w-full bg-slate-50 border border-slate-200 rounded-xl px-3 py-2 text-xs font-mono text-slate-700 focus:outline-none focus:border-steel focus:bg-white transition">
-            <option value="all">All Midwest Metros</option>
-            <option value="Chicago">Chicago, IL</option>
-            <option value="Cincinnati">Cincinnati, OH</option>
-            <option value="Cleveland">Cleveland, OH</option>
-            <option value="Columbus">Columbus, OH</option>
-            <option value="Des Moines">Des Moines, IA</option>
-            <option value="Detroit">Detroit, MI</option>
-            <option value="Fargo">Fargo, ND</option>
-            <option value="Indianapolis">Indianapolis, IN</option>
-            <option value="Kansas City">Kansas City, MO/KS</option>
-            <option value="Milwaukee">Milwaukee, WI</option>
-            <option value="Minneapolis">Minneapolis, MN</option>
-            <option value="Omaha">Omaha, NE</option>
-            <option value="Rapid City">Rapid City, SD</option>
-            <option value="Sioux Falls">Sioux Falls, SD</option>
-            <option value="St. Louis">St. Louis, MO</option>
+            <option value="all">All Northeast Metros</option>
+            <option value="Albany">Albany, NY</option>
+            <option value="Boston">Boston, MA</option>
+            <option value="Buffalo">Buffalo, NY</option>
+            <option value="Burlington">Burlington, VT</option>
+            <option value="Hartford">Hartford, CT</option>
+            <option value="Manchester">Manchester, NH</option>
+            <option value="New Haven">New Haven, CT</option>
+            <option value="New York City">New York City, NY</option>
+            <option value="Philadelphia">Philadelphia, PA</option>
+            <option value="Pittsburgh">Pittsburgh, PA</option>
+            <option value="Portland">Portland, ME</option>
+            <option value="Providence">Providence, RI</option>
+            <option value="Rochester">Rochester, NY</option>
+            <option value="Syracuse">Syracuse, NY</option>
+            <option value="Worcester">Worcester, MA</option>
           </select>
         </div>
 
@@ -150,19 +150,16 @@
         <div>
           <label class="block text-[10px] font-mono uppercase text-slate-500 mb-1">State (A-Z)</label>
           <select id="filter-state" onchange="applyFilters()" class="w-full bg-slate-50 border border-slate-200 rounded-xl px-3 py-2 text-xs font-mono text-slate-700 focus:outline-none focus:border-steel focus:bg-white transition">
-            <option value="all">All Midwest States</option>
-            <option value="IL">Illinois (IL)</option>
-            <option value="IN">Indiana (IN)</option>
-            <option value="IA">Iowa (IA)</option>
-            <option value="KS">Kansas (KS)</option>
-            <option value="MI">Michigan (MI)</option>
-            <option value="MN">Minnesota (MN)</option>
-            <option value="MO">Missouri (MO)</option>
-            <option value="NE">Nebraska (NE)</option>
-            <option value="ND">North Dakota (ND)</option>
-            <option value="OH">Ohio (OH)</option>
-            <option value="SD">South Dakota (SD)</option>
-            <option value="WI">Wisconsin (WI)</option>
+            <option value="all">All Northeast States</option>
+            <option value="CT">Connecticut (CT)</option>
+            <option value="ME">Maine (ME)</option>
+            <option value="MA">Massachusetts (MA)</option>
+            <option value="NH">New Hampshire (NH)</option>
+            <option value="NJ">New Jersey (NJ)</option>
+            <option value="NY">New York (NY)</option>
+            <option value="PA">Pennsylvania (PA)</option>
+            <option value="RI">Rhode Island (RI)</option>
+            <option value="VT">Vermont (VT)</option>
           </select>
         </div>
 
@@ -217,7 +214,7 @@
   <section class="border-t border-slate-200 bg-white py-14">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 text-center">
       <h3 class="text-2xl font-bold text-navy font-serif">Something missing or have a material to spec?</h3>
-      <p class="text-slate-600 text-sm mt-2 font-sans">Help make Northeast AEC the definitive field manual for Midwest building science.</p>
+      <p class="text-slate-600 text-sm mt-2 font-sans">Help make Northeast AEC the definitive field manual for Northeast building science.</p>
       
       <div class="mt-6 flex flex-wrap items-center justify-center gap-3">
         <a href="mailto:contact@northeastaec.com" class="px-5 py-2.5 rounded-xl bg-navy text-white text-xs font-mono font-semibold hover:bg-navy-dark transition shadow-sm">
@@ -313,7 +310,7 @@
       // Update page titles
       if (selectedCategory === 'all') {
         pageTitle.textContent = 'All Guides & Specifications';
-        pageDesc.textContent = 'Curated engineering specifications, building envelope assemblies, and practical trade teardowns across the Midwest.';
+        pageDesc.textContent = 'Curated engineering specifications, building envelope assemblies, and practical trade teardowns across the Northeast.';
       } else {
         const catName = getCategoryName(selectedCategory);
         pageTitle.textContent = catName;
@@ -335,7 +332,7 @@
             <span class="text-xs font-mono uppercase tracking-widest text-crimson font-bold">Submissions Open</span>
             <h3 class="text-2xl font-bold text-navy font-serif mt-2">Material Manufacturers Directory</h3>
             <p class="text-slate-600 text-sm max-w-xl mx-auto mt-2 font-sans leading-relaxed">
-              Are you a building product manufacturer? Publish your certified ASTM testing reports, CAD details, and technical cut sheets directly to Midwest architects, builders, and property owners.
+              Are you a building product manufacturer? Publish your certified ASTM testing reports, CAD details, and technical cut sheets directly to Northeast architects, builders, and property owners.
             </p>
             <div class="mt-6 flex justify-center gap-3">
               <a href="mailto:contact@northeastaec.com" class="px-5 py-2.5 rounded-xl bg-navy text-white text-xs font-mono font-semibold hover:bg-navy-dark transition shadow-sm">
@@ -502,3 +499,4 @@
   </script>
 </body>
 </html>
+

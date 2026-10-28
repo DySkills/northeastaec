@@ -43,7 +43,7 @@ function renderContractorCTA(frontmatter, citiesStr) {
     <div class="mt-14 p-6 sm:p-8 rounded-2xl bg-white border-2 border-steel-border shadow-sm">
       <div class="flex items-center justify-between gap-2 mb-2">
         <span class="text-xs font-mono uppercase tracking-widest text-crimson font-bold">Vetted Local Estimates</span>
-        <span class="text-[10px] font-mono text-slate-400">Midwest Region (Climate Zones 5 & 6 Cold & 4A Coastal)</span>
+        <span class="text-[10px] font-mono text-slate-400">Northeast Region (Climate Zones 5 & 6 Cold & 4A Coastal)</span>
       </div>
       <h3 class="text-2xl font-bold text-navy font-serif">
         Compare Free Local Quotes in Your Area
@@ -63,7 +63,7 @@ function renderContractorCTA(frontmatter, citiesStr) {
     <div class="mt-14 p-8 rounded-2xl bg-white border-2 border-steel-border shadow-sm">
       <div class="flex items-center justify-between gap-2 mb-2">
         <span class="text-xs font-mono uppercase tracking-widest text-crimson font-bold">Vetted Contractor Network</span>
-        <span class="text-[10px] font-mono text-slate-400">Midwest Region</span>
+        <span class="text-[10px] font-mono text-slate-400">Northeast Region</span>
       </div>
       <h3 class="text-2xl font-bold text-navy font-serif">
         Need Vetted Local Specialists in Your Area?
@@ -172,6 +172,69 @@ function extractHowToSteps(bodyMd) {
   return steps;
 }
 
+// Extract FAQ items for FAQPage JSON-LD schema
+function extractFaqItems(bodyMd) {
+  const faqs = [];
+  const lines = bodyMd.split('\n');
+  let inFaq = false;
+  let currentQ = null;
+  let currentA = '';
+
+  for (const line of lines) {
+    const trimmed = line.trim();
+    if (trimmed.match(/^##\s+Frequently Asked Questions/i)) {
+      inFaq = true;
+      continue;
+    }
+    if (inFaq) {
+      if (trimmed.startsWith('## ') && !trimmed.startsWith('### ')) {
+        if (currentQ && currentA) {
+          faqs.push({
+            "@type": "Question",
+            "name": currentQ,
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": currentA.trim()
+            }
+          });
+          currentQ = null;
+          currentA = '';
+        }
+        break;
+      }
+      if (trimmed.startsWith('### ')) {
+        if (currentQ && currentA) {
+          faqs.push({
+            "@type": "Question",
+            "name": currentQ,
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": currentA.trim()
+            }
+          });
+        }
+        currentQ = trimmed.replace(/^###\s+/, '').trim();
+        currentA = '';
+        continue;
+      }
+      if (currentQ && trimmed && !trimmed.startsWith('---')) {
+        currentA += (currentA ? ' ' : '') + trimmed.replace(/[\*\_\[\]]/g, '');
+      }
+    }
+  }
+  if (currentQ && currentA) {
+    faqs.push({
+      "@type": "Question",
+      "name": currentQ,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": currentA.trim()
+      }
+    });
+  }
+  return faqs;
+}
+
 // Lightweight Markdown to HTML parser
 function markdownToHtml(md) {
   let html = '';
@@ -182,6 +245,12 @@ function markdownToHtml(md) {
 
   for (let i = 0; i < lines.length; i++) {
     let line = lines[i].trim();
+
+    // Raw HTML blocks
+    if (line.startsWith('<script') || line.startsWith('</script>') || line.startsWith('<div') || line.startsWith('</div>') || line.startsWith('<!--')) {
+      html += line + '\n';
+      continue;
+    }
 
     // Carousel parsing (:::carousel ... :::)
     if (line.startsWith(':::carousel')) {
@@ -459,8 +528,8 @@ function formatInline(str) {
 // Generate complete HTML page with Enterprise-Grade SEO, AEO, and VEO Architecture
 function buildArticleHtml(frontmatter, htmlBody, bodyMd) {
   const slug = frontmatter.slug || 'article';
-  const citiesStr = Array.isArray(frontmatter.cities) ? frontmatter.cities.slice(0, 5).join(', ') + '...' : frontmatter.cities || 'Midwest';
-  const statesStr = Array.isArray(frontmatter.states) ? frontmatter.states.join(', ') : frontmatter.states || 'All Midwest';
+  const citiesStr = Array.isArray(frontmatter.cities) ? frontmatter.cities.slice(0, 5).join(', ') + '...' : frontmatter.cities || 'Northeast';
+  const statesStr = Array.isArray(frontmatter.states) ? frontmatter.states.join(', ') : frontmatter.states || 'All Northeast';
   const formatBadge = frontmatter.format ? frontmatter.format.toUpperCase() : 'FEATURE';
   const leadTag = frontmatter.leadType ? ` &bull; ${frontmatter.leadType.toUpperCase()} LEAD` : '';
 
@@ -529,7 +598,7 @@ function buildArticleHtml(frontmatter, htmlBody, bodyMd) {
       "inLanguage": "en-US",
       "proficiencyLevel": "Expert",
       "genre": frontmatter.format || "Building Science Analysis",
-      "keywords": `${frontmatter.category}, Building Science, Climate Zone 5, Midwest Architecture, ${frontmatter.codeTag || ''}`,
+      "keywords": `${frontmatter.category}, Building Science, Climate Zones 5 & 6, Northeast Architecture, ${frontmatter.codeTag || ''}`,
       "author": {
         "@type": "Organization",
         "name": frontmatter.author || "Northeast AEC Building Science",
@@ -537,7 +606,7 @@ function buildArticleHtml(frontmatter, htmlBody, bodyMd) {
       },
       "publisher": {
         "@type": "Organization",
-        "name": "Midwest Architecture, Engineering & Construction",
+        "name": "Northeast Architecture, Engineering & Construction",
         "url": siteUrl
       },
       "datePublished": "2026-10-01T08:00:00Z",
@@ -587,6 +656,17 @@ function buildArticleHtml(frontmatter, htmlBody, bodyMd) {
   <meta name="twitter:description" content="${cleanSummary}">
   <meta name="twitter:image" content="${imageUrl}">`;
 
+  const faqItems = extractFaqItems(bodyMd);
+  let faqSchemaScript = '';
+  if (faqItems.length > 0) {
+    const faqSchema = {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": faqItems
+    };
+    faqSchemaScript = `\n  <script type="application/ld+json">\n${JSON.stringify(faqSchema, null, 2)}\n  </script>`;
+  }
+
   return `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -596,7 +676,7 @@ function buildArticleHtml(frontmatter, htmlBody, bodyMd) {
   <!-- Primary SEO Tags -->
   <title>${frontmatter.title} | Northeast AEC</title>
   <meta name="description" content="${cleanSummary}">
-  <meta name="keywords" content="${frontmatter.category}, Midwest building science, Climate Zone 5, ${frontmatter.codeTag || ''}, residential construction, thermal boundary, energy efficiency">
+  <meta name="keywords" content="${frontmatter.category}, Northeast building science, Climate Zones 5 & 6, ${frontmatter.codeTag || ''}, residential construction, thermal boundary, energy efficiency">
   <link rel="canonical" href="${canonicalUrl}">
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 
@@ -619,7 +699,7 @@ ${JSON.stringify(breadcrumbSchema, null, 2)}
   </script>
   <script type="application/ld+json">
 ${JSON.stringify(mainSchema, null, 2)}
-  </script>
+  </script>${faqSchemaScript}
 
   <!-- Typography & Styling -->
   <script src="https://cdn.tailwindcss.com"></script>
@@ -803,8 +883,8 @@ function build() {
       leadType: frontmatter.leadType || '',
       category: frontmatter.category,
       catSlug: frontmatter.catSlug,
-      cities: frontmatter.cities || ["All Midwest"],
-      states: frontmatter.states || ["All Midwest"],
+      cities: frontmatter.cities || ["All Northeast"],
+      states: frontmatter.states || ["All Northeast"],
       summary: frontmatter.summary || '',
       codeTag: frontmatter.codeTag || "Building Science Spec",
       type: frontmatter.format || "Article",
