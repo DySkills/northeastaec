@@ -59,7 +59,7 @@ The catastrophic failure occurs when this meltwater reaches the unconditioned ro
 
 Many Northeast homeowners mistakenly believe that blowing additional fiberglass insulation into an attic will permanently cure their winter ice dam problems. However, insulation simply slows conductive heat transfer; it does not stop convective air movement. In pre-war colonials, Victorians, and 1950s Cape Cods, convective air leakage accounts for over 70% of total heat escaping into attic spaces.
 
-Warm interior air is driven upward by the natural building stack effect, finding pathways through dozens of hidden architectural penetrations:
+Warm interior air is driven upward by the natural building stack effect, finding pathways through dozens of hidden architectural penetrations. Building auditors categorize these major thermal leakage channels across four building assemblies:
 - **Recessed Can Lights:** Non-IC rated recessed fixtures act as open exhaust chimneys, pouring cubic feet of 70°F air directly into unconditioned roof bays.
 - **Plumbing and Electrical Chases:** Gaps around soil stacks, wiring penetrations, and interior partition top plates bypass ceiling gypsum and plaster entirely.
 - **Masonry Chimney Interfaces:** Gaps between brick masonry chimney flues and combustible wood framing allow massive volumes of warm air to rise uninhibited into the attic ridge.
@@ -87,7 +87,7 @@ Until these physical convective bypasses are mechanically air-sealed using two-p
 
 Once the ceiling air barrier is hermetically sealed, the second defense line is maintaining an engineered, balanced attic ventilation system. International Residential Code (IRC Section R806) mandates a minimum net free ventilating area (NFVA) of 1:150, or 1:300 when balanced across continuous intake and exhaust planes. The objective is to sweep unconditioned outdoor air continuously across the underside of the roof deck, keeping sheathing temperatures below freezing during snow conditions.
 
-Achieving this hygrothermal balance requires continuous intake at the low eaves paired with continuous exhaust along the high ridge:
+Achieving this hygrothermal balance requires continuous intake at the low eaves paired with continuous exhaust along the high ridge. The balanced system relies on four coordinated components:
 - **Continuous Perforated Soffits:** Unobstructed soffit vents provide low-elevation intake air, utilizing outdoor wind pressures and stack buoyancy to drive airflow.
 - **Rigid Airflow Baffles:** Install heavy-duty polypropylene or cardboard vent baffles (such as AccuVent or Durovent) in every individual rafter bay to prevent blown insulation from choking off soffit airflow.
 - **Minimum Heel Height Clearance:** In older framing with shallow 2x4 or 2x6 rafters, retrofitting raised-heel insulation baffles ensures a continuous 2-inch clear air path while maintaining maximum insulation depth directly over the exterior wall top plate.
@@ -120,7 +120,7 @@ Without continuous soffit intake, a ridge vent cannot draw air effectively, whic
 
 During mid-winter emergencies, desperate homeowners frequently resort to throwing chemical salt pucks, rock salt, or calcium chloride tablets onto frozen eaves and into clogged gutters. While chemical deicers melt localized channels through ice dams, they represent one of the most destructive maintenance practices in building envelope management.
 
-The resulting chemical brine flows down roof valleys, dissolving protective asphalt emulsion coatings and stripping ceramic granules from shingles, which voids manufacturer warranties. Furthermore, when this highly corrosive ionic brine enters copper or galvanized steel gutters, it initiates rapid galvanic corrosion. Soldered copper joints become brittle, gutter brackets fail, and runoff dripping onto underlying foundation plantings destroys delicate shrubbery.
+The resulting chemical brine flows down roof valleys, dissolving protective asphalt emulsion coatings and stripping ceramic granules from shingles, which voids manufacturer warranties. Furthermore, when this corrosive brine enters copper gutters, it initiates rapid galvanic corrosion that embrittles soldered seams and destroys foundation plantings.
 
 Physical intervention during active winter ice emergencies should be restricted to low-pressure steam abatement. Professional ice dam technicians utilize dedicated kerosene-fired mobile steam plants operating at 290°F and low nozzle pressures (100 to 200 PSI). Unlike high-pressure pressure washers that blast off shingle granules and gouge wood trim, gentle thermal steam cuts frozen dams into manageable chunks without damaging fragile roofing substrates.
 

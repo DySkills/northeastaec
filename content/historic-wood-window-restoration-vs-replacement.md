@@ -31,7 +31,7 @@ referralHook: "Historic Wood Window Restoration Contractor Quote Match"
 
 Homeowners across New England, New York, and Pennsylvania are bombarded by direct mail flyers and sales representatives promising that replacement windows will cut their heating bills by 40% to 50%. In reality, windows account for only 10% to 15% of a typical home's total conductive and convective heat loss. The vast majority of winter heat loss escapes upward through uninsulated attic bypasses, around basement sills, and through hollow wall cavities.
 
-The financial mathematics of whole-window replacement rarely make sense:
+The financial mathematics of whole-window replacement rarely make sense. Analyzing lifecycle costs reveals three major financial disadvantages:
 - **High Capital Expense:** Replacing 20 windows in an older Victorian or colonial home with quality wood-clad or composite inserts costs between $24,000 and $36,000.
 - **Minimal Annual Savings:** Independent field studies conducted by the National Trust for Historic Preservation and the U.S. Department of Energy prove that replacing single-pane windows with double-pane units saves only $200 to $450 per year on total household heating costs.
 - **Disposable Lifespans:** Vinyl replacement windows utilize insulated glass units (IGUs) sealed with organic polyisobutylene spacers. When the edge seals inevitably fail after 15 to 20 years, the inert gas escapes, moisture fogs between the panes, and the entire vinyl sash must be discarded into a landfill.
@@ -57,7 +57,7 @@ Conversely, an original wood window sash is completely repairable. Every compone
 
 The wood used to manufacture windows prior to the mid-twentieth century is biologically distinct from any lumber available today. Historic sashes were milled from virgin old-growth forests that took centuries to mature in dense canopy environments. This slow growth produced tight annular rings (often 30 to 50 rings per inch), creating timber with exceptional physical density, high natural resin content, and natural cellular resistance to fungal decay and insect infestation.
 
-Modern replacement windows are composed of unplasticized polyvinyl chloride (uPVC). While vinyl does not rot, it exhibits physical liabilities when exposed to extreme Northeast temperature swings:
+Modern replacement windows are composed of unplasticized polyvinyl chloride (uPVC). While vinyl does not rot, it exhibits three severe physical liabilities when exposed to extreme Northeast temperature swings:
 - **Thermal Expansion Coefficient:** PVC expands and contracts at more than four times the rate of natural wood or glass. In winter temperatures down to -10°F, vinyl frames shrink significantly, breaking perimeter sealants and opening drafty gaps against the surrounding rough opening.
 - **Glass-to-Frame Stresses:** Differential thermal expansion between rigid glass sheets and flexible vinyl frames places continuous shear stress on the perimeter edge seals, accelerating seal failure and argon gas leakage.
 - **Loss of Glass Area:** Replacement inserts feature thick vinyl jambs and frames that must slide inside the existing historic wood casing. Installing a replacement insert reduces visible glass area by 15% to 25%, drastically darkening interior living rooms and altering the home's exterior proportions.
@@ -85,7 +85,7 @@ Original wavy glass—whether eighteenth-century broad glass or nineteenth-centu
 
 The primary reason historic single-pane windows feel cold and drafty in winter is not thermal conduction through the glass; it is air infiltration through unsealed perimeter sash gaps. A single unweatherstripped double-hung window with a 1/16-inch perimeter gap has an effective leakage area equivalent to a four-inch brick hole in your wall.
 
-The premier preservation specification for sealing historic wood sashes is interlocking spring bronze weatherstripping:
+The premier preservation specification for sealing historic wood sashes is interlocking spring bronze weatherstripping. This durable metal system provides three distinct physical advantages:
 - **Spring Bronze Mechanics:** Crafted from 0.008-inch to 0.012-inch spring-tempered phosphor bronze, these continuous metal strips are nailed into the side pulley stiles of the window jamb using solid copper or brass brads.
 - **Dynamic Compression:** The spring temper of the bronze exerts continuous mechanical tension against the wooden sash stiles as the window slides upward and downward, maintaining an airtight seal while allowing effortless sash operation.
 - **Zero Mechanical Degradation:** Unlike cheap adhesive foam tapes or pile weatherstrips that compress, crack, and peel off within two seasons, spring bronze is virtually permanent, maintaining spring tension for 50 to 80 years without replacement.
@@ -111,7 +111,7 @@ The premier preservation specification for sealing historic wood sashes is inter
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
-Pairing spring bronze along the side jambs with a heavy cast-iron or brass sash lock pulls the meeting rails tightly together, sealing the horizontal center seam against wind-driven infiltration under ASTM E283 standards.
+Pairing spring bronze along the side jambs with a heavy cast-iron or brass sash lock pulls the meeting rails tightly together, sealing the horizontal center seam against wind-driven infiltration under ASTM E283 standards. This interlocking mechanical seal maintains thermal tightness while allowing easy seasonal window operation.
 
 ---
 

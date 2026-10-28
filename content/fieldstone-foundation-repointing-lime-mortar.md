@@ -64,9 +64,9 @@ The modern preservation disaster occurs when well-intentioned homeowners or unin
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
-The primary destructive mechanism is vapor entrapment. Historic lime mortar boasts a high vapor permeance of 12 to 18 perms, whereas hard Portland cement drops permeability to under 1.5 perms. When Portland cement is smeared over the interior joint faces, moisture migrating through the wall hits an impermeable dead end. Trapped behind the cement patch, liquid water accumulates inside the porous stone edges.
+The primary destructive mechanism is vapor entrapment, as historic lime mortar boasts a vapor permeance of 12 to 18 perms while hard Portland cement drops permeability below 1.5 perms. When Portland cement is smeared over interior joints, migrating moisture hits an impermeable dead end. Trapped behind the cement patch, liquid water accumulates inside the porous stone edges.
 
-When winter frost drives sub-freezing temperatures through the above-grade portion of the foundation, this trapped moisture freezes and expands by 9% in volume. Because the dense Portland cement is stronger than the adjacent stone, the expanding ice cannot compress the mortar joint. Instead, the hydraulic pressure blows off the face of the historic stone itself—a catastrophic failure mode known as spalling. Within five to ten winter seasons, beautiful 150-year-old granite and sandstone boulders are reduced to crumbling gravel.
+When winter frost drives sub-freezing temperatures through the above-grade portion of the foundation, this trapped moisture freezes and expands by 9% in volume. Because dense Portland cement is stronger than the adjacent stone, the hydraulic pressure cannot compress the joint and instead blows off the stone face—a failure mode known as spalling. Within five to ten winter seasons, 150-year-old granite and sandstone boulders are reduced to crumbling gravel.
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -89,7 +89,7 @@ When winter frost drives sub-freezing temperatures through the above-grade porti
 
 Restoring historic stone foundations safely requires adhering to National Park Service Preservation Brief 2 guidelines. Masonry conservators universally specify Natural Hydraulic Lime (NHL) conforming to European Standard EN 459-1 or ASTM C144 aggregate grading. Natural hydraulic limes are manufactured by calcining argillaceous limestones containing naturally occurring silica and alumina clays, creating a binder that sets partially through water hydration and finishes curing through atmospheric carbonation.
 
-For the vast majority of Northeast fieldstone foundations, **NHL 3.5 (Moderately Hydraulic Lime)** represents the engineering sweet spot:
+For the vast majority of Northeast fieldstone foundations, **NHL 3.5 (Moderately Hydraulic Lime)** represents the engineering sweet spot. This mineral binder satisfies four vital preservation criteria:
 - **Controlled Compressive Strength:** NHL 3.5 cures to an ultimate 28-day compressive strength of approximately 500 to 725 PSI, ensuring it remains softer and more flexible than the surrounding historic stone boulders.
 - **Superior Vapor Transpiration:** With a vapor permeance rating of 12 to 15 perms, NHL 3.5 allows subterranean moisture to transpire and evaporate continuously without hydrostatic buildup.
 - **Autogenous Self-Healing:** Free unhydrated calcium hydroxide within the lime mortar slowly dissolves when exposed to micro-cracks and water, migrating into voids and re-carbonating with atmospheric carbon dioxide ($CO_2$) to automatically seal microscopic fissures.
@@ -119,7 +119,7 @@ Repointing an ancient fieldstone foundation is a labor-intensive, forensic proce
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
-Technicians must systematically execute four mechanical steps:
+Technicians must systematically execute four mechanical steps. Following this sequence guarantees that fresh hydraulic lime bonds securely to the stone substrate:
 - **Manual Joint Raking:** Rake out deteriorated, powdery mortar to a depth of at least twice the width of the joint (minimum 1.5 to 2 inches deep). Never use high-speed angle grinders with abrasive diamond wheels on fieldstone; rotating blades will inevitably cut into historic stone edges. All joint extraction must be executed using small pneumatic chisels or manual mason's cape chisels.
 - **Debris Purging:** Clear loose sand, dirt, and stone chips from deep within the wall cavity using a heavy HEPA-filtered vacuum and low-pressure water flushing.
 - **Pre-Wet Saturation:** Thoroughly saturate the stone joints with clean water for 24 hours prior to pointing, maintaining a Surface Saturated Dry (SSD) condition. If dry, thirsty stone absorbs water out of the fresh lime mortar mix, the lime will desorb prematurely, leading to weak, crumbly joints that fail to hydrate.
@@ -131,9 +131,9 @@ Technicians must systematically execute four mechanical steps:
 
 While repointing with NHL 3.5 stabilizes the stone matrix and stops structural unraveling, repointing alone will not convert a damp, unconditioned 1800s basement into dry modern living space. In heavy spring thaw conditions across the Northeast, soil hydrostatic water pressure can overwhelm even the best repointing job, forcing water droplets through mortar pores.
 
-Achieving a clean, dry cellar requires coupling breathable lime repointing with passive interior water management. Property owners must never apply impermeable crystalline coatings or liquid rubber "waterproofing" paints (such as Drylok) over interior fieldstone; these coatings trap water exactly like Portland cement, blistering off within three years while spalling the stone beneath.
+Achieving a clean, dry cellar requires coupling breathable lime repointing with passive interior water management. Property owners must never apply impermeable crystalline coatings or liquid rubber "waterproofing" paints (such as Drylok) over interior fieldstone. These coatings trap water exactly like Portland cement, blistering off within three years while spalling the stone beneath.
 
-Instead, the building science approach allows the stone to weep harmlessly into a controlled drainage plane. By installing an interior perimeter dimpled polyethylene drainage membrane (such as Delta-MS) tied to an under-slab perforated drain tile and a sealed sump pump basin, bulk groundwater is captured before it reaches the floorboards. The fieldstone foundation continues to breathe and dry naturally, maintaining structural equilibrium for centuries to come.
+Instead, the building science approach allows the stone to weep harmlessly into a controlled drainage plane. Installing an interior perimeter dimpled drainage membrane tied to sub-slab drain tile and a sealed sump basin captures bulk groundwater before it reaches the floorboards. The fieldstone foundation continues to breathe and dry naturally, maintaining structural equilibrium for centuries to come.
 
 ---
 

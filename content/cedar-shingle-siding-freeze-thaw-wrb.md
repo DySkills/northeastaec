@@ -33,7 +33,7 @@ Coastal New England, Long Island, and the Jersey Shore inhabit Climate Zone 4A C
 
 Historically, regional architecture embraced native Eastern White Cedar (*Thuja occidentalis*) and Western Red Cedar (*Thuja plicata*) for exterior cladding. Cedar heartwood contains high concentrations of natural polyphenolic compounds (tropolones and thujaplicins) that serve as natural fungicides, granting the wood inherent resistance to rot and wood-boring insects. Over decades of exposure to maritime sun and salt air, the wood's surface tannins wash away, leaving behind a weathered silver-gray patina that defines coastal coastal architecture.
 
-However, natural chemical durability cannot overcome flawed modern building envelope physics. Historically, cedar shingles were nailed directly over uninsulated rough-sawn board sheathing spaced with 1-inch gaps (skip lath). Warm air leaking through uninsulated wall cavities constantly dried the shingles from the back. In modern, tightly insulated walls, that drying heat is gone, transforming direct-applied shingles into a high-risk moisture trap.
+However, natural chemical durability cannot overcome flawed modern building envelope physics. Historically, cedar shingles were nailed over uninsulated rough-sawn board sheathing where escaping heat constantly dried the wood from behind. In modern, tightly insulated walls, that drying heat is gone, transforming direct-applied shingles into a high-risk moisture trap.
 
 ---
 
@@ -103,7 +103,7 @@ While wood furring strips are common beneath board siding, installing furring st
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
-Field monitoring shows that shingles installed over a 3D rainscreen mat dry out in less than one-third the time of direct-applied shingles, extending the service life of coastal cedar from 15 years to over 50 years.
+Field monitoring shows that shingles installed over a 3D rainscreen mat dry out in less than one-third the time of direct-applied shingles. This rapid drainage extends the service life of coastal cedar from 15 years to over 50 years.
 
 ---
 
@@ -111,7 +111,7 @@ Field monitoring shows that shingles installed over a 3D rainscreen mat dry out 
 
 The drainage plane is only as durable as the weather-resistive barrier (WRB) protecting the structural sheathing behind it. In violent coastal nor'easters, wind-driven rain can penetrate standard mechanically fastened housewraps through thousands of staple holes and untaped lap seams.
 
-The premier specification for coastal cedar architecture is a **vapor-permeable self-adhered membrane** (such as Henry Blueskin VP100, Dörken Delta-Vent SA, or Soprema Sopraseal Stick VP):
+The premier specification for coastal cedar architecture is a **vapor-permeable self-adhered membrane** (such as Henry Blueskin VP100, Dörken Delta-Vent SA, or Soprema Sopraseal Stick VP). This continuous barrier protects the structural sheathing through three performance layers:
 - **Monolithic Air & Water Barrier:** Because the membrane features a continuous layer of pressure-sensitive synthetic butyl adhesive across its entire back face, it bonds directly to the plywood sheathing, eliminating wind-washing and drafty air infiltration.
 - **Self-Sealing Fastener Penetrations:** As thousands of stainless-steel siding nails penetrate the membrane during shingle installation, the rubberized adhesive flows around the nail shanks, creating an airtight, watertight gasket around every single fastener hole.
 - **High Vapor Permeance:** With a vapor permeance rating of 25 to 35 perms, the membrane allows indoor water vapor to transpire outward freely, preventing moisture from becoming trapped within the structural wall cavities.
@@ -122,7 +122,7 @@ The premier specification for coastal cedar architecture is a **vapor-permeable 
 
 A common, devastating mistake on high-end coastal homes is using standard electro-galvanized or cheap hot-dipped galvanized nails to install cedar shingles. In coastal maritime environments within 15 miles of the ocean, salt-laden sea air creates an aggressive electrolytic environment that rapidly corrodes zinc coatings.
 
-When zinc galvanizing degrades, two catastrophic failures occur:
+When zinc galvanizing degrades in maritime salt air, two catastrophic failures occur. Both problems permanently compromise the facade:
 - **Tannic Acid Bleeding:** Cedar heartwood contains naturally occurring tannic acids. When moisture brings tannic acids into contact with exposed iron in corroding nails, a chemical reaction produces ferric tannate—an indelible, jet-black chemical ink that bleeds down the face of the silver-gray shingles, permanently staining the facade.
 - **Fastener Shear Failure:** Within seven to ten years of oceanfront salt exposure, corroding galvanized nails lose over 50% of their cross-sectional diameter, causing shingle courses to blow off in high-wind nor'easters.
 
@@ -162,7 +162,7 @@ Older historic homes were drafty and uninsulated, with shingles nailed over spac
 A 3D rainscreen mat (such as Cedar Breather or Slicker) is a flexible, continuous matrix of extruded plastic filaments installed between the housewrap and the cedar shingles. It creates a 1/4-inch to 3/8-inch air space that allows rain that penetrates the shingle joints to drain away by gravity, while allowing air to circulate so the shingles dry from both sides.
 
 ### Why do black streaks run down cedar shingle walls around nail heads?
-Black streaks are caused by chemical corrosion. If electro-galvanized or standard steel nails are used in coastal environments, salt air strips the zinc coating and exposes the iron. The iron reacts chemically with natural tannic acids in the cedar wood, creating ferric tannate—a black ink that bleeds down the face of the shingles. Only Grade 304 or 316 stainless steel nails prevent this staining.
+Black streaks are caused by chemical corrosion when electro-galvanized or standard steel nails are exposed to coastal salt air. The exposed iron reacts chemically with natural tannic acids in the cedar wood, creating ferric tannate ink that bleeds down the face of the shingles. Only Grade 304 or 316 stainless steel nails prevent this staining.
 
 ### Can cedar shingles be installed over rigid foam insulation?
 Yes, but they must never be nailed directly against the face of rigid foam. Installing a 3D drainage mat or vertical wood furring strips over the rigid foam is essential to create a ventilation space, and nails must be long enough to penetrate through the shingles, drainage cavity, and foam, anchoring at least 1-1/4 inches into structural wood wall studs or plywood sheathing.

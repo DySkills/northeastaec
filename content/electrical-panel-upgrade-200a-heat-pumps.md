@@ -39,9 +39,9 @@ Electrifying an existing home flips this energy relationship entirely. Modern he
 
 ## NEC Article 220 Residential Load Calculations: Mathematical Reality
 
-Contractors cannot simply guess whether an existing electrical panel has sufficient spare capacity; the National Electrical Code (NEC Article 220) strictly mandates mathematical load calculation methodologies before adding new heavy-amperage appliances.
+Contractors cannot simply guess whether an existing electrical panel has sufficient spare capacity; the National Electrical Code (NEC Article 220) strictly mandates mathematical load calculations before adding heavy appliances. These formulas guarantee that total household demand never exceeds conductor ratings.
 
-The NEC Standard Calculation Method (Part III) establishes a formal demand profile:
+The NEC Standard Calculation Method (Part III) establishes a formal demand profile. The calculation aggregates electrical demand through five standardized steps:
 - **General Lighting and Receptacles:** Allocated at 3 volt-amperes (VA) per square foot of conditioned floor area (e.g., 2,000 sq.ft = 6,000 VA).
 - **Small Appliance and Laundry Circuits:** Mandates a minimum of two 20-amp small appliance branch circuits (3,000 VA) and one dedicated laundry branch circuit (1,500 VA).
 - **Demand Factor Derating:** The first 3,000 VA is calculated at 100%, while the remaining balance is derated to 35% under the assumption that not all lights and outlets operate simultaneously.
@@ -70,7 +70,7 @@ When an energy auditor or master electrician models this electrified profile, th
 
 ## Obsolete Panel Archetypes: Federal Pacific, Zinsco & Split-Bus Hazards
 
-Beyond simple capacity shortages, millions of vintage Northeast residences harbor obsolete electrical panel hardware that represents an active life-safety hazard. When upgrading service for a heat pump, replacing these hazardous panels is an urgent safety priority:
+Beyond simple capacity shortages, millions of vintage Northeast residences harbor obsolete electrical panel hardware that represents an active life-safety hazard. When upgrading service for a heat pump, replacing these hazardous panels is an urgent safety priority across three vintage brands:
 
 ### Federal Pacific Electric (FPE) Stab-Lok Panels
 Installed widely between 1950 and 1985, FPE Stab-Lok panels are notorious for defective circuit breakers. Independent testing by the Consumer Product Safety Commission (CPSC) and electrical forensic laboratories proved that FPE breakers fail to trip under direct short-circuit and overcurrent conditions up to 60% of the time, allowing wires to overheat and ignite structural framing inside wall cavities.
@@ -85,7 +85,7 @@ Pre-1980 panels frequently feature "split-bus" configurations that lack a single
 
 ## Anatomy of a 200A Service Upgrade: Conduit, Meter, and Grounding
 
-A complete 200-amp electrical service upgrade involves far more than simply swapping out the indoor breaker box; it requires rebuilding the home's entire electrical utility entrance infrastructure from the overhead utility connection to the subterranean earth grounding network:
+A complete 200-amp electrical service upgrade involves far more than simply swapping out the indoor breaker box. It requires rebuilding the home's entire electrical utility entrance infrastructure from the overhead utility connection to the earth grounding network:
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -112,7 +112,7 @@ A complete 200-amp electrical service upgrade involves far more than simply swap
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
-The code-compliant 200A installation requires four primary physical components:
+A code-compliant 200A service upgrade requires rebuilding the electrical infrastructure from the utility connection to the ground. The installation requires four primary physical components:
 - **Service Entrance Conductors:** Replace undersized wiring with 2/0 AWG copper conductors or 4/0 AWG compact aluminum alloy conductors rated for 200 amps at 75°C under NEC Table 310.16, routed through 2-inch heavy-gauge rigid metal conduit (RMC) or PVC.
 - **Class 200 Meter Socket:** Install a utility-approved exterior meter socket rated for 200 continuous amps, featuring an integrated exterior emergency disconnect switch as required by the 2020/2023 NEC Article 230.85 for firefighter safety.
 - **Indoor 200A Distribution Panel:** Install a modern 40-space, 80-circuit panel enclosure (such as Square D QO, Siemens, or Eaton CH) featuring solid copper bus bars, a 200A main breaker, and plug-on neutral bars for clean AFCI/GFCI breaker connections.
@@ -124,7 +124,7 @@ The code-compliant 200A installation requires four primary physical components:
 
 In dense urban environments (such as brownstones in Brooklyn, Boston, or Philadelphia), upgrading utility service entrance lines can be cost-prohibitive. If the local utility's pole-mounted transformer is operating at maximum capacity, or if supply cables run through ancient underground street conduits, upgrading from 100A to 200A can require utility infrastructure construction fees exceeding $10,000 and months of delays.
 
-In these constrained settings, building scientists specify **Smart Energy Management Panels** (such as the Span Smart Panel or Lumin Edge System):
+In these constrained settings, building scientists specify **Smart Energy Management Panels** (such as the Span Smart Panel or Lumin Edge System). These intelligent micro-controllers manage household demand through three automated capabilities:
 - **Dynamic Real-Time Load Shedding:** A smart panel continuously monitors total household electrical draw down to the millisecond.
 - **Automated Circuit Throttling:** When high-amperage appliances operate simultaneously—for example, if the Level 2 EV charger, clothes dryer, and induction range are active when the heat pump calls for full power—the smart panel automatically pauses the EV charger or water heater for 20 minutes until the heat pump load stabilizes.
 - **NEC 220.87 Approval:** Because the smart panel enforces automated load management, local building inspectors can approve high-amperage heat pump additions on existing 100-amp services, saving homeowners thousands of dollars in utility upgrade costs.

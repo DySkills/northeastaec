@@ -89,7 +89,7 @@ The secondary distribution loop should be re-piped with high-efficiency electron
 
 While most rooms in an older home have sufficient radiator area for low-temperature operation, select rooms may exhibit thermal deficits. Corner bedrooms with multiple exterior walls, rooms with uninsulated cathedral ceilings, or living areas with large bay windows often experience higher heat loss than the original radiators can satisfy at 120°F. Rather than abandoning the entire hydronic heat pump project, building scientists perform room-by-room EDR audits to pinpoint these bottlenecks.
 
-When a room exhibits an EDR deficit, contractors have three practical engineering solutions to restore balance:
+When a room exhibits an EDR deficit, contractors have three practical engineering solutions to restore balance. These targeted interventions avoid replacing the home's wider radiator array:
 - **Envelope Weatherization:** Air-sealing the ceiling plane and installing a low-E storm window in that specific room often reduces heat loss by 25%, bringing the existing radiator back into thermal equilibrium.
 - **Cast-Iron Section Expansion:** Masons or hydronic specialists can source salvaged vintage cast-iron radiators from architectural salvage yards to add additional sections to the existing unit.
 - **Low-Temperature Fan Convectors:** In spaces where radiator physical size cannot be enlarged, installers replace the cast-iron unit with an ultra-slim hydronic fan coil (such as a Jaga Briza or Myson unit). These modern emitters feature internal micro-fans that extract high BTU output from 115°F water while fitting into compact floor footprints.
@@ -104,7 +104,7 @@ Century-old hydronic piping networks accumulate heavy deposits of black iron oxi
 
 Prior to commissioning the new heat pump, technicians must perform a comprehensive chemical power flush on the entire radiator network. The system must be isolated, treated with an industrial hydronic dispersant cleaner (such as Fernox F3 or Sentinel X400), and flushed with high-velocity water until discharge runs completely clear. Technicians must clear every individual radiator vent and inspect original brass union spuds for weeping pinholes or deteriorating graphite packing.
 
-Following the initial purge, the mechanical system must be protected with permanent filtration and corrosion inhibitors:
+Following the initial purge, the mechanical system must be protected with permanent filtration and corrosion inhibitors. Contractors install three protective measures to safeguard heat pump heat exchangers:
 - **Magnetic Dirt Separators:** Install a full-flow magnetic dirt separator (such as a Caleffi DIRTMAG or Adey MagnaClean) on the main system return pipe immediately upstream of the buffer tank to capture circulating iron dust.
 - **Chemical Passivation:** Dose the system with a non-acidic corrosion inhibitor (such as Sentinel X100) to buffer pH levels between 8.2 and 9.0, preventing future galvanic corrosion between cast-iron, copper, and brass components.
 - **Freeze Protection:** In cold northern zones, charge the exterior primary loop with inhibited propylene glycol mixed with demineralized water to prevent catastrophic freeze burst failures during winter grid outages.

@@ -31,7 +31,7 @@ referralHook: "Attic Weatherization & High-Performance Insulation Match"
 
 Selecting attic insulation for cold Northeast climates requires looking beyond advertised nominal R-values printed on manufacturer brochures. The Federal Trade Commission (FTC R-Value Rule) mandates that insulation materials must be tested and rated at an average mean temperature of 75°F under ASTM C518 laboratory conditions. However, in cities like Buffalo, Burlington, and Concord, attic temperatures routinely hover between 0°F and -20°F throughout January and February.
 
-Under sub-zero field conditions, different insulation materials respond with divergent physical behaviors:
+Under sub-zero field conditions, different insulation materials respond with divergent physical behaviors. The two primary categories exhibit opposite thermal responses as temperatures drop:
 - **Polyurethane Spray Foam Thermal Drift:** Closed-cell spray foam achieves its impressive R-6.5 to R-7.0 per inch by trapping low-conductivity blowing agent gases within its microscopic plastic cells. When outdoor temperatures plunge below freezing, these trapped gases condense from gas to liquid inside the cells, lowering cell pressure and causing the material's thermal resistance to degrade by 10% to 15% during peak winter cold.
 - **Cellulose Cryogenic Performance Surge:** Dense-pack cellulose consists of solid wood cellulose fibers that resist heat through trapped static air. As air gets colder, its molecular kinetic energy drops and thermal conductivity decreases. Consequently, dense-pack cellulose (nominal R-3.7 per inch at 75°F) surges in performance to **R-4.0 to R-4.2 per inch** when temperatures drop to 0°F.
 
@@ -48,15 +48,15 @@ Under sub-zero field conditions, different insulation materials respond with div
 └─────────────────────┴──────────────────┴───────────────┴───────────────┘
 ```
 
-While closed-cell spray foam maintains a higher absolute R-value per inch—making it essential for shallow 2x4 or 2x6 rafter bays where depth is constrained—cellulose performs with exceptional thermodynamic stability in open flat attic configurations.
+While closed-cell spray foam maintains a higher absolute R-value per inch, cellulose performs with exceptional thermodynamic stability in open flat attic configurations. This stability makes cellulose ideal where rafter depth is unconstrained.
 
 ---
 
 ## Embodied Carbon, Global Warming Potential, and Petrochemicals
 
-In contemporary green building engineering and Passive House design, building scientists evaluate not only operational carbon (heating fuel saved), but also embodied carbon (greenhouse gas emissions generated during manufacturing and transport).
+In contemporary green building engineering and Passive House design, building scientists evaluate not only operational carbon, but also embodied carbon. Calculating the full lifecycle emissions of insulation materials reveals stark environmental contrasts.
 
-The embodied carbon contrast between these two materials is profound:
+The embodied carbon contrast between these two materials is profound. Lifecycle assessment data demonstrates radically different carbon trajectories:
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -82,11 +82,11 @@ Dense-pack cellulose is manufactured from 85% post-consumer recycled newsprint a
 
 Attic building envelopes in the Northeast must manage continuous moisture vapor diffusion from indoor living quarters and occasional bulk water leaks from exterior roof shingles. How insulation handles moisture determines whether framing timbers remain sound or rot prematurely.
 
-Dense-pack cellulose is an active hygric buffer:
+Dense-pack cellulose functions as an active hygric buffer. The organic fiber structure manages indoor moisture through two complementary mechanisms:
 - **Dynamic Vapor Absorption:** Wood cellulose fibers are naturally hygroscopic, capable of absorbing up to 15% of their dry weight in ambient water vapor during high-humidity periods without losing structural loft or thermal resistance.
 - **Safe Seasonal Desorption:** As attic humidity drops, cellulose slowly desorbs trapped moisture harmlessly into the attic air, acting as a moisture capacitor that stabilizes wood framing moisture content below the 19% threshold required for wood-decay fungi.
 
-Closed-cell spray foam is a Class II vapor retarder (0.8 to 1.2 perms at 2 inches), forming an impermeable barrier. While this vapor impermeability makes spray foam excellent for sealing unvented "hot roofs," it introduces severe risks in historic properties. If a slate roof tile cracks or flashing fails along a roof valley, rainwater seeping through the roof sheathing hits the back of the impermeable foam. Trapped between the water-resistant foam and the wood deck, moisture cannot dry inward, leading to rapid, concealed dry rot of structural rafters that remains invisible from inside the attic until the roof deck collapses.
+Closed-cell spray foam is an impermeable Class II vapor retarder (0.8 to 1.2 perms at 2 inches). While this makes spray foam effective for unvented hot roofs, it creates severe risks if roof shingles or flashings leak above it. Trapped between the water-resistant foam and the wood deck, moisture cannot dry inward, leading to rapid rafter dry rot that remains hidden until structural failure.
 
 ---
 
@@ -125,7 +125,7 @@ When upgrading an existing historic attic floor, dense-pack cellulose provides s
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
-Spray foam remains the superior engineering choice in specific architectural configurations:
+Spray foam remains the superior engineering choice in specific architectural configurations. Two common scenarios require its dense air-sealing capabilities:
 - **Unvented Cathedral Ceilings:** Where finished bedroom plaster follows the sloped roof rafters, shallow 2x6 framing leaves insufficient depth for cellulose; installing 4 to 5 inches of closed-cell spray foam achieves R-30 while meeting unvented roof codes.
 - **Complex Dormer Cheek Walls:** Small, irregular architectural cavities with severe exterior air wash benefit from the monolithic air-sealing capabilities of closed-cell foam.
 
@@ -137,7 +137,7 @@ Crucially, cellulose honors National Park Service Preservation Brief 16 guidelin
 
 Homeowners can execute foundational preparations before insulating attics. Property owners can clean out stored clutter, build plywood dams around attic scuttle hatches, and measure rafter depths to determine whether the roof requires vented cellulose or unvented spray foam. Homeowners can safely install rigid cardboard rafter baffles along the eaves.
 
-However, executing high-density cellulose blowing and chemical spray foam applications requires professional equipment and safety protocols. Dense-packing cellulose requires commercial high-pressure blowing machines (such as Intec or Krendl rigs) calibrated to achieve 3.5 lbs/cu.ft without blowing down plaster ceilings. Spraying two-component polyurethane involves toxic isocyanates requiring supplied-air respirators, thermal fire watches, and 24-hour building evacuation. Working with certified BPI insulation contractors guarantees maximum thermal efficiency and structural safety.
+However, executing high-density cellulose blowing and chemical spray foam applications requires professional equipment and safety protocols. Dense-packing cellulose requires commercial blowing machines calibrated to achieve 3.5 lbs/cu.ft, while spraying two-component polyurethane involves toxic isocyanates requiring supplied-air respirators and building evacuation. Working with certified BPI insulation contractors guarantees maximum thermal efficiency and structural safety.
 
 &rarr; [Explore the Homeowner's Guide to MassSave and NYSERDA Heat Pump Rebates](masssave-nyserda-electrification-rebate-guide.html)
 

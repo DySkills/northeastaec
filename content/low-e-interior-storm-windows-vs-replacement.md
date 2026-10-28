@@ -102,7 +102,7 @@ Interior storm windows decouple this acoustic bridge by creating a wide 3-inch t
 
 Window condensation during sub-zero Northeast cold waves is not caused by leaky glass; it is a hygrothermal dew point failure. When warm, humid indoor air (typically 68°F and 40% to 50% relative humidity) contacts cold glass, the air cools rapidly. Once the air temperature drops below its dew point (approximately 44°F), water vapor condenses into liquid droplets that run down the sash, rotting wooden sills and breeding mold.
 
-Exterior storm windows do not solve this problem completely because warm interior air can still leak past the drafty primary window into the storm cavity, condensing on the cold storm glass.
+Exterior storm windows do not solve this problem completely because warm interior air can still leak past the drafty primary window into the storm cavity. Once inside the cavity, moisture condenses on the cold storm glass.
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -129,7 +129,7 @@ Interior storm windows permanently eliminate condensation by reversing the air b
 
 ## 5. Major Product Architectures: Allied, Mon-Ray & Indow
 
-Homeowners evaluating interior storm window retrofits can select between three dominant engineering architectures based on aesthetic requirements and operational frequency:
+Homeowners evaluating interior storm window retrofits can select between three dominant engineering architectures. The optimal choice depends on operational frequency and landmark guidelines:
 
 ### Allied Window (Historic One2One / Magnetic Aluminum)
 Allied manufactures custom aluminum-framed interior storm windows engineered specifically for historic preservation and commercial landmark buildings. Featuring ultra-slim 5/8-inch extruded aluminum profiles custom-painted to match interior woodwork, Allied panels can be specified with low-e glass, acoustic laminated glass, and spring-loaded magnetic or thumb-latch closures.

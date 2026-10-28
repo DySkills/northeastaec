@@ -33,7 +33,7 @@ Throughout the historic urban centers of the Northeast—from the mill buildings
 
 Historically, these mass masonry buildings functioned in thermodynamic equilibrium through sheer energy waste. Cheap coal and oil heat radiated outward through the walls continuously, maintaining the entire brick thickness above freezing even during sub-zero nor'easters. When wind-driven coastal rains soaked the outer brick wythe, this abundant outward thermal energy drove the moisture outward, allowing the porous masonry to dry through evaporation.
 
-The modern push toward decarbonization and high-performance energy retrofits disrupts this historic balance. Adding high R-value interior insulation acts as a thermal blanket that isolates the exterior brick from the building's interior heat. Consequently, the brick remains at outdoor ambient temperatures all winter long. Starved of heat, the saturated masonry cannot dry, causing the winter freeze-thaw line to penetrate deep into the structural brickwork.
+The modern push toward decarbonization and high-performance energy retrofits disrupts this historic balance. Adding high R-value interior insulation acts as a thermal blanket that isolates the exterior brick from interior heat, causing the brick to remain at outdoor ambient temperatures all winter long. Starved of heat, the saturated masonry cannot dry, causing the winter freeze-thaw line to penetrate deep into the structural brickwork.
 
 ---
 
@@ -41,7 +41,7 @@ The modern push toward decarbonization and high-performance energy retrofits dis
 
 When uneducated contractors retrofit historic brick buildings, they often frame a conventional 2x4 stud wall against the interior brick, pack the cavities with low-cost fiberglass batts, and staple a 6-mil polyethylene sheet across the studs. In Climate Zones 5 and 6, this assembly represents a catastrophic building science failure that virtually guarantees structural damage.
 
-The failure mechanism follows an inescapable thermodynamic sequence:
+The failure mechanism follows an inescapable thermodynamic sequence. Winter vapor movement triggers three consecutive physical failures inside the wall:
 - **Interstitial Condensation:** During winter, warm indoor air containing water vapor diffuses outward. When it passes through the air-permeable fiberglass insulation, it strikes the freezing interior surface of the brick masonry.
 - **Dew Point Breach:** Because the brick is now unheated (often hovering between 15°F and 25°F), the air drops below its dew point, depositing liquid condensation on the back of the brick and within the fiberglass.
 - **Vapor Trapping:** When summer arrives, reverse vapor drive pushes hot, humid outdoor moisture inward through the porous brick. The 6-mil polyethylene sheet blocks this inward drying, trapping moisture within the fiberglass cavity where relative humidity exceeds 90%, fueling toxic mold growth.
@@ -67,7 +67,7 @@ The failure mechanism follows an inescapable thermodynamic sequence:
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
-Furthermore, trapped water behind the fiberglass freezes solid during cold spells, popping off the exterior face of the historic brick (spalling) and causing structural mortar joints to disintegrate into soft mush.
+Furthermore, trapped water behind the fiberglass freezes solid during cold spells, popping off the exterior face of the historic brick (spalling) and causing structural mortar joints to disintegrate into soft mush. This irreversible decay destroys historic brick wythes within several winter seasons.
 
 ---
 
@@ -88,7 +88,7 @@ Before a single stud is erected inside a historic masonry building, building sci
 └─────────────────────┴──────────────────┴───────────────────────────────┘
 ```
 
-The prerequisite for accurate WUFI simulations is physical jobsite testing:
+The prerequisite for accurate WUFI simulations is physical jobsite testing. Engineers collect empirical material data through two core diagnostic procedures:
 - **RILEM Tube Water Absorption Testing:** Technicians mount graduated glass RILEM tubes to the exterior brick face to measure the rate of capillary water uptake. Bricks that absorb more than 1.0 milliliter of water in 20 minutes are considered highly porous and cannot be heavily insulated without exterior hydrophobic treatment.
 - **Critical Degree of Saturation ($S_{crit}$):** Laboratory freeze-thaw cycling determines the maximum moisture content a specific brick can endure before ice expansion causes fracture. If WUFI simulations reveal that interior insulation drives winter brick moisture above 80% saturation, insulation levels must be scaled back.
 
@@ -127,7 +127,7 @@ When relative humidity within the joist pocket exceeds 80% at temperatures above
 
 ## The Solution: Smart Vapor Retarders and Vapor-Open Mineral Wool
 
-A safe, code-compliant interior masonry retrofit requires an assembly that breathes and changes its physical properties based on seasonal environmental shifts:
+A safe, code-compliant interior masonry retrofit requires an assembly that breathes and changes its physical properties based on seasonal environmental shifts. Building envelope specialists specify four synchronized material layers:
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -148,7 +148,7 @@ A safe, code-compliant interior masonry retrofit requires an assembly that breat
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
-The engineering specification utilizes four synchronized components:
+The engineering specification utilizes four synchronized components. Working together, these materials manage seasonal vapor drive without trapping liquid moisture:
 - **Breathable Silane-Siloxane Exterior Treatment:** Treat the exterior brick facade with a deep-penetrating silane water repellent to reduce liquid rain absorption by 90% without compromising vapor permeability.
 - **Continuous Semi-Rigid Mineral Wool:** Install 1 to 2 inches of high-density mineral wool board (such as Rockwool Comfortboard 80) directly against the interior brick face. Mineral wool is completely hydrophobic, non-combustible, and highly vapor-open (30+ perms), preventing moisture from being trapped against the masonry.
 - **Smart Vapor Retarders (Polyamide Membranes):** Fasten a moisture-variable smart vapor retarder membrane (such as ProClima Intello Plus or CertainTeed MemBrain) across the interior studs. In winter when humidity inside the cavity is low, the membrane's molecular structure closes tight to 0.13 perms, blocking interior vapor from entering the wall. In summer, relative humidity within the wall rises above 70%, causing the polyamide pores to open to over 13.0 perms, allowing the brick to dry inward.
@@ -160,7 +160,7 @@ The engineering specification utilizes four synchronized components:
 
 Homeowners can perform visual inspections of their brick walls prior to commissioning expensive engineering audits. Inspecting exterior brick for white crystalline salt deposits (efflorescence), missing mortar joints, or flaking brick faces indicates active moisture saturation that must be resolved before considering interior insulation. Ensuring gutters, downspouts, and window lintel caulking are 100% watertight eliminates up to 80% of bulk moisture ingress.
 
-However, designing an interior insulation assembly for solid load-bearing masonry carries immense structural and legal liability. Sizing insulation depth incorrectly can cause structural brickwork to freeze and shear, triggering catastrophic structural collapse. Professional building envelope consultants utilize calibrated laboratory brick absorption testing, dynamic WUFI computer modeling, and hygrothermal sensor data to engineer a retrofit that protects the building's historic masonry for another century.
+However, designing an interior insulation assembly for solid load-bearing masonry carries immense structural and legal liability. Sizing insulation depth incorrectly can cause structural brickwork to freeze and shear, triggering catastrophic structural collapse. Professional building envelope consultants utilize calibrated laboratory absorption testing and dynamic WUFI modeling to engineer a retrofit that protects historic masonry for another century.
 
 &rarr; [Explore Insulated Concrete Forms (ICF) for 48-Inch Northeast Frost Depths](icf-basements-48-inch-northeast-frost-depth.html)
 
@@ -169,7 +169,7 @@ However, designing an interior insulation assembly for solid load-bearing masonr
 ## Frequently Asked Questions
 
 ### Why is it dangerous to insulate historic solid brick walls from the inside?
-Because uninsulated brick walls rely on escaping indoor heat to stay warm and dry out after rainstorms. Adding interior insulation keeps the brick at freezing outdoor temperatures all winter long. Saturated with rain that can no longer dry, the water inside the brick freezes and expands, causing the outer face of the brick to crack, crumble, and spall off the building.
+Uninsulated brick walls rely on escaping indoor heat to stay warm and dry out after rainstorms. Adding interior insulation keeps the brick at freezing outdoor temperatures all winter long, causing trapped rainwater to freeze, expand, and spall the brick face off the building.
 
 ### Can I use standard fiberglass batts and pink insulation on my brick walls?
 No. Standard fiberglass is air-permeable and allows warm indoor air to strike the cold interior brick face, creating continuous condensation and fueling toxic black mold. If you cover the fiberglass with a plastic polyethylene vapor barrier, it traps summer humidity inside the wall, destroying interior finishes and rotting framing.
@@ -178,4 +178,4 @@ No. Standard fiberglass is air-permeable and allows warm indoor air to strike th
 A smart vapor retarder (such as Intello Plus or MemBrain) is an engineered polyamide membrane that dynamically changes its permeability based on humidity. In winter, it seals tight (0.13 perms) to stop warm indoor moisture from entering the wall. In summer, it opens its molecular pores (over 13 perms) to allow trapped humidity to dry inward into the air-conditioned room.
 
 ### How do you prevent wooden floor joists from rotting inside an insulated brick wall?
-When interior insulation is installed, the ends of structural floor joists embedded inside the brick are exposed to cold, damp conditions that foster wood-decay fungi. Technicians must seal the joist pockets with breathable air-sealing tapes, treat the wood with borate preservative rods, or cut the joists back from the exterior wall and support them on internal structural timber posts.
+When interior insulation is installed, the ends of structural floor joists embedded inside the brick are exposed to cold, damp conditions that foster wood-decay fungi. Technicians must seal the joist pockets with breathable air-sealing tapes, treat the wood with borate preservative rods, or cut the joists back and support them on internal timber posts.

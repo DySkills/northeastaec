@@ -39,7 +39,7 @@ Under this controlled pressure differential, exterior air rushes violently throu
 
 ## Required Diagnostic Equipment & Calibration Tools
 
-Executing a professional residential blower door audit requires specialized diagnostic instruments:
+Executing a professional residential blower door audit requires specialized diagnostic instruments. Technicians deploy a standardized suite of field tools to measure pressure and visualize airflow:
 
 | Category | Specification | Primary Function |
 | :--- | :--- | :--- |
@@ -54,23 +54,23 @@ Executing a professional residential blower door audit requires specialized diag
 
 ## Sequential Step-by-Step Execution
 
-Follow these six sequential steps to execute a code-compliant residential blower door audit conforming to ASTM E779 and BPI-1200 standards:
+Follow these six sequential steps to execute a code-compliant residential blower door audit conforming to ASTM E779 and BPI-1200 standards. Each diagnostic phase ensures accurate data acquisition while protecting building safety:
 
 ### Step 1: Pre-Test Combustion Appliance Safety and Zone Preparation
-Safety is the foremost priority when inducing mechanical negative pressure inside vintage residences:
+Safety is the foremost priority when inducing mechanical negative pressure inside vintage residences. Technicians must secure all combustion appliances and open hearths before powering the fan:
 - Walk through the basement and living spaces to inspect all fossil fuel combustion appliances, including oil boilers, gas water heaters, and wood stoves.
 - Switch the emergency electrical disconnect switches on all heating equipment to "OFF" and turn gas water heater control valves to "PILOT" to prevent burner ignition during testing.
 - Inspect wood-burning fireplaces; sweep out loose wood ash or seal the firebox opening with plastic sheeting to prevent an ash explosion into the living room when the fan engages.
 
 ### Step 2: House Envelope Boundary Configuration
-Standardize the building envelope geometry to ensure reproducible, code-compliant test metrics:
+Standardize the building envelope geometry to ensure reproducible, code-compliant test metrics. Establishing an intentional pressure boundary requires systematic interior and exterior alignment:
 - Close and latch all exterior windows, storm windows, and exterior entry doors.
 - Open all interior passage doors between bedrooms, bathrooms, and hallways to establish a single, unified interior pressure zone.
 - Close doors leading to unconditioned spaces, including cold basements, unconditioned attics, and attached garages.
 - Shut all mechanical ventilation dampers, turn off kitchen range hoods, and verify clothes dryer dampers are closed.
 
 ### Step 3: Blower Door Frame and Manometer Rigging
-Assemble the testing apparatus within a primary exterior doorway (typically the front or rear entrance):
+Assemble the testing apparatus within a primary exterior doorway (typically the front or rear entrance). Proper mechanical mounting guarantees that all airflow passes directly through the calibrated fan:
 - Expand the aluminum modular door frame into the door jamb, locking the cam levers to achieve a rigid, square fit.
 - Stretch the airtight nylon shroud over the frame, smoothing the perimeter gaskets against the wood jambs to ensure zero perimeter leakage.
 - Insert the calibrated fan housing into the shroud's elastic circular collar, ensuring the motor faces inward toward the home.
@@ -97,14 +97,14 @@ Assemble the testing apparatus within a primary exterior doorway (typically the 
 ```
 
 ### Step 4: Baseline Baseline Pressure and 50 Pa Depressurization
-Execute baseline zeroing before powering the fan motor:
+Execute baseline zeroing before powering the fan motor to account for natural environmental pressures. The digital manometer calculates ambient baseline offsets through a brief measurement sequence:
 - With the fan opening capped with its vinyl cover, observe the digital manometer on Channel A to record baseline building pressure caused by natural wind and stack effect.
 - Remove the vinyl fan cover, configure the appropriate flow ring (typically Ring A or B for older homes), and initiate the automated -50 Pa test cruise control on the manometer.
 - The fan will accelerate smoothly, exhausting air until the indoor-to-outdoor pressure differential stabilizes at precisely -50.0 Pascals.
 - Record the raw CFM50 airflow reading and verify that the fan ring operating pressure sits within the manufacturer's calibrated range.
 
 ### Step 5: Forensic Smoke Pencil Leak Tracing
-With the home held under continuous 50 Pascal depressurization, walk through the property with a chemical smoke generator:
+With the home held under continuous 50 Pascal depressurization, walk through the property with a chemical smoke generator. Technicians systematically inspect the most common architectural leakage zones:
 - **Baseboard and Floor Interfaces:** Trace the smoke wand along the perimeter baseboard moldings; high-velocity air rushing inward indicates open gaps between plaster and subfloors.
 - **Pocket Door Cavities:** Hold the smoke pencil at the jamb recess of sliding pocket doors; smoke pulling violently into the room confirms the pocket functions as an open chase into exterior wall studs.
 - **Electrical Outlets and Switchplates:** Test wall receptacles along exterior walls; smoke curling around faceplates indicates missing air barriers behind plaster lath.
@@ -122,7 +122,7 @@ With the home held under continuous 50 Pascal depressurization, walk through the
 ```
 
 ### Step 6: Thermal Imaging and Depressurization Mapping
-On days with a minimum 20°F indoor-to-outdoor temperature differential, audit the envelope using an infrared camera:
+On days with a minimum 20°F indoor-to-outdoor temperature differential, audit the envelope using an infrared camera. Thermal imaging reveals hidden thermal bypasses through distinct surface temperature signatures:
 - Cold outdoor air entering through framing gaps cools the interior drywall or plaster surfaces along its flow path.
 - The thermal camera visualizes these infiltration plumes as dark blue and purple spider-web patterns radiating across floors, corners, and ceiling edges.
 - Photograph each thermal anomaly to create a prioritized punch list for the weatherization air-sealing crew.

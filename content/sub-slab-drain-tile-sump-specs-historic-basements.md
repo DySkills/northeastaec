@@ -62,7 +62,7 @@ An effective interior drain tile assembly depends entirely on precise trench dim
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
-The trench must be excavated to strict geometric and material criteria conforming to IRC Section R405.1 standards:
+The trench must be excavated to strict geometric and material criteria conforming to IRC Section R405.1 standards. The sub-slab assembly requires four coordinated layers:
 - **Trench Dimensions:** Sawcut existing concrete 14 to 18 inches away from the perimeter wall, excavating a trench 10 to 12 inches deep to ensure the pipe invert rests at least 4 inches below the bottom of the slab.
 - **Geotechnical Filter Fabric:** Line the entire excavated trench with a continuous non-woven needle-punched geotextile fabric (such as Mirafi 140N). This fabric prevents native silt and clay particles from migrating into the drainage gravel while allowing free water flow.
 - **Washed Crushed Stone Bedding:** Bed the pipe in 3/4-inch double-washed crushed angular stone. Never use pea gravel, round river rock, or quarry run containing stone dust, which will pack tightly and restrict water movement.
@@ -108,7 +108,7 @@ The primary pump is an industrial-grade 1/2-horsepower submersible cast-iron pum
 
 An unsealed interior perimeter drainage trench can inadvertently turn a basement into a high-risk environmental hazard. In states with high radon prevalence (such as Pennsylvania, New York, and Massachusetts), cutting open the concrete slab breaks the home's natural soil gas barrier. Open drainage gaps create direct conduits that siphon radioactive radon gas ($^{222}Rn$) and subterranean mold spores into the home via stack effect suction.
 
-To prevent indoor air degradation, the drainage installation must follow strict sealed-system guidelines:
+To prevent indoor air degradation, the drainage installation must follow strict sealed-system guidelines. Soil gas and radon sealing require three mandatory protocols:
 - **Poured Slab Re-Concreting:** Once the pipe, stone, and vapor barrier are in place, pour a full 4-inch-thick patch of 3,500 PSI concrete over the trench, finishing it flush with the existing slab. Never leave an open slotted gap between the slab edge and the foundation wall.
 - **Airtight Sump Basin Lid:** The sump basin must be sealed with a clear polycarbonate gasketed lid bolted securely to the rim with stainless-steel hardware. All discharge pipes, electrical wiring cords, and vent pipes passing through the lid must be sealed with airtight compression grommets.
 - **Radon Mitigation Rough-In:** Incorporate a 3-inch or 4-inch PVC vent pipe penetration through the sump lid, stubbed out for easy connection to an active sub-slab radon depressurization fan if future indoor radon testing exceeds EPA action thresholds (4.0 pCi/L).
@@ -119,7 +119,7 @@ To prevent indoor air degradation, the drainage installation must follow strict 
 
 Homeowners can execute periodic maintenance tasks to ensure their sump pump system remains operational. Pouring five gallons of clean water into the sump pit every spring confirms the primary float switch moves freely and verifies the check valve prevents backflow water hammer. Homeowners can also test battery backup charge levels and inspect exterior discharge freeze-relief lines to prevent frozen pipe clogs.
 
-However, executing concrete sawcutting, trench excavation, and structural sub-slab drainage in historic properties involves considerable physical and structural risk. Cutting too close to ancient stone footings can cause sudden soil settlement and foundation wall displacement. Furthermore, operating heavy electric jackhammers and gas-powered concrete saws generates hazardous crystalline silica dust requiring OSHA Table 1 compliant HEPA water-shrouded vacuum systems. Working with certified waterproofing professionals guarantees long-term foundation stability and dry basements.
+However, executing concrete sawcutting, trench excavation, and structural sub-slab drainage in historic properties involves considerable physical and structural risk. Cutting too close to ancient stone footings can cause sudden soil settlement and foundation wall displacement. Working with certified waterproofing professionals guarantees OSHA silica compliance and long-term foundation stability.
 
 &rarr; [Review Historic Fieldstone Foundation Repointing and Lime Chemistry](fieldstone-foundation-repointing-lime-mortar.html)
 

@@ -53,7 +53,7 @@ Restoration work must adhere to National Park Service Preservation Brief 29 guid
 
 ## Required Restoration Tools & Materials
 
-Working on historic slate roofs requires specialized slate-crafting hand tools and traditional architectural metals:
+Working on historic slate roofs requires specialized slate-crafting hand tools and traditional architectural metals. Craftspeople utilize seven essential tools and materials:
 
 | Category | Specification | Primary Application |
 | :--- | :--- | :--- |
@@ -69,28 +69,28 @@ Working on historic slate roofs requires specialized slate-crafting hand tools a
 
 ## Sequential Step-by-Step Execution
 
-Follow these six sequential steps to execute a code-compliant slate replacement and copper flashing restoration:
+Follow these six sequential steps to execute a code-compliant slate replacement and copper flashing restoration. Adhering to this craftsman sequence preserves historic stone while ensuring watertightness:
 
 ### Step 1: Structural Staging and Slate Hook Ladder Rigging
-Never walk directly on historic slate roofs; concentrated foot pressure will crack fragile stone tiles and crush underlying skip lath:
+Never walk directly on historic slate roofs; concentrated foot pressure will crack fragile stone tiles and crush underlying skip lath. Safe roof access requires three mandatory staging steps:
 - Rig an OSHA-compliant aluminum roof staging ladder equipped with padded ridge hooks to distribute weight evenly across the roof ridge.
 - Ensure staging hooks clamp securely over the opposite roof crest, with non-marring rubber bumpers protecting the slate surface.
 - Secure safety fall-arrest harnesses to certified temporary anchor points tied directly through roof framing timbers.
 
 ### Step 2: Severing Fasteners with the Slate Ripper
-Locate the cracked or delaminated slate tile requiring extraction:
+Locate the cracked or delaminated slate tile requiring extraction. Removing damaged stone requires three precise mechanical steps:
 - Slide the thin blade of the forged slate ripper flat beneath the damaged slate until the ripper's notched hook engages the original copper or iron nails.
 - Strike the handle of the ripper downward with a leather mallet to sheer or pull the nail heads out of the underlying roof deck sheathing.
 - Once both top nails are cut, gently slide the damaged slate down and remove it from the course without prying against adjacent overlapping slates.
 
 ### Step 3: Fabricating and Sizing the Replacement Slate
-Source a matching Grade S-1 replacement slate with identical thickness, exposure, and grain color:
+Source a matching Grade S-1 replacement slate with identical thickness, exposure, and grain color. Proper dimensioning involves three craftsman techniques:
 - Dry-fit the new slate to confirm exact dimensional clearance, maintaining a minimum 1/8-inch expansion gap between adjacent tiles.
 - If trimming is required, place the slate over an anvil stake and bevel-cut the edge using the cutting edge of a traditional slate hammer.
 - For standard bib repairs, punch two countersunk nail holes from the back face toward the front to create a conical cup that seats nail heads flush.
 
 ### Step 4: Installing the Replacement Slate via the Copper Hook Method
-The copper hook method provides the most reliable mechanical installation for isolated repairs where access to nail holes is blocked:
+The copper hook method provides the most reliable mechanical installation for isolated repairs where access to nail holes is blocked. Installing the hook requires three sequential actions:
 - Drive a 3-inch solid copper slate hook firmly into the wood sheathing between the two slates in the course immediately below the vacancy.
 - Align the hook's vertical shank so it sits centered within the 1/8-inch joint gap of the underlying course.
 - Slide the replacement slate upward beneath the overlapping course until its top edge seats, then pull the slate gently downward to seat its bottom butt firmly into the curved copper hook cup.
@@ -115,14 +115,14 @@ The copper hook method provides the most reliable mechanical installation for is
 ```
 
 ### Step 5: Fabricating and Soldering 16-oz Copper Valley Flashings
-Valley flashings in older homes typically fail before the surrounding slates, requiring precision replacement:
+Valley flashings in older homes typically fail before the surrounding slates, requiring precision replacement. Rebuilding the valley involves four waterproofing layers:
 - Strip slates back 12 inches on either side of the valley centerline, storing sound slates for reinstallation.
 - Install a continuous layer of high-temperature self-adhered membrane (ASTM D1970) directly over the wood valley decking.
 - Fabricate open valley pans using 16-oz or 20-oz cold-rolled copper with 1-inch raised water diverter splash ribs and 1/2-inch folded edge hem cleats.
 - Lock individual 8-foot valley pans together using 1-inch flat-lock soldered seams, sweat-soldered with 50/50 tin-lead bar solder and non-acid flux.
 
 ### Step 6: Engineering and Fastening Bronze Snow Guards
-Heavy winter snowpack sliding down smooth slate roofs creates severe liability hazards above walkways, porches, and parked vehicles:
+Heavy winter snowpack sliding down smooth slate roofs creates severe liability hazards above walkways, porches, and parked vehicles. Installing snow guards requires four engineering steps:
 - Calculate required snow guard quantities based on roof slope, rafter span length, and local ground snow loads (40 to 60 PSF in Climate Zones 5 and 6).
 - Position cast bronze pad guards (such as Berger or Zaleski models) in staggered triangular patterns across the lower roof third.
 - Fasten each bronze guard strap with three 10-gauge solid copper ring-shank nails driven directly into structural rafters, never into skip lath alone.
@@ -134,7 +134,7 @@ Heavy winter snowpack sliding down smooth slate roofs creates severe liability h
 
 The single greatest threat to historic Northeast slate roofs is uneducated handyman intervention with petroleum-based asphalt plastic cement. When a homeowner notices a minor drip, inexperienced workers frequently smear trowels of black asphalt roofing cement over the cracked stone or along copper valleys.
 
-While tar may temporarily stop water ingress for a few weeks, it permanently destroys the slate assembly:
+While tar may temporarily stop water ingress for a few weeks, it permanently destroys the slate assembly. Petroleum mastics cause three irreversible failure modes:
 - **Vapor Trapping:** Bituminous roof mastics create an impermeable seal that prevents the porous stone from breathing, trapping internal condensation that freeze-thaws and shatters the slate in winter.
 - **Thermal Incompatibility:** Black asphalt absorbs intense summer UV, expanding and contracting at rates radically different from the rigid stone, which tears the edges off sound surrounding slates.
 - **Labor Escalation:** Once slate tiles are coated in tar, they cannot be cleanly salvaged or re-drilled, forcing contractors to discard dozens of irreplaceable historic tiles and tripling eventual restoration budgets.

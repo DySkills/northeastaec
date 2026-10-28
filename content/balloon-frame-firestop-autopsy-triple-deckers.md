@@ -63,7 +63,7 @@ The resulting structural envelope contains dozens of open, continuous vertical c
 
 During a typical Northeast winter where temperatures plunge into the single digits, the air within a triple-decker is heated to 68°F while outside air sits at 15°F. Because warm air is less dense than cold air, it naturally expands and rises. In an open balloon-frame home, this buoyancy creates a powerful low-pressure zone at the basement level and high positive pressure beneath the roof rafters.
 
-This pressure differential triggers a continuous convective air loop within the exterior wall cavities:
+This pressure differential triggers a continuous convective air loop within the exterior wall cavities. Air movement circulates through three distinct stages of the building envelope:
 - **Basement Inflow:** Sub-freezing exterior air is siphoned inward through uncaulked foundation sill plates, cold crawlspace gaps, and cellar stone joints.
 - **Vertical Thermal Wash:** The cold air rushes upward through the 30-foot stud bays, cooling the backside of the interior plaster walls and chilling room temperatures.
 - **Attic Exhaust:** The air exhausts out the top of the open stud cavities beneath the roof eaves, dumping thousands of BTUs per hour into the cold attic and melting snowpack to trigger severe ice dams.
@@ -99,13 +99,13 @@ Thermal imaging surveys on unrestored triple-deckers frequently record second- a
 
 From a fire protection engineering standpoint, unrestored balloon-frame structures represent the most dangerous residential construction type in North America. When a fire originates in a basement—frequently triggered by an overloaded electrical panel, a faulty oil burner, or a clothes dryer failure—the open stud cavities function as direct combustion chimneys.
 
-The thermodynamics of structural fire spread in balloon frames follow a devastating sequence:
+The thermodynamics of structural fire spread in balloon frames follow a rapid and predictable sequence. Once flames ignite in the cellar, structural destruction progresses through four critical phases:
 - **Instantaneous Flue Draft:** Heat and superheated toxic gases ($CO$ and $HCN$) are drawn into the open basement stud pockets by stack effect suction.
 - **Bypassing Living Quarters:** Flames roar upward through the hidden wall cavities, bypassing the first- and second-floor living units completely. The fire travels undetected behind the plaster, leaving the hallway smoke detectors un-triggered during early stages.
 - **Attic Mushrooming:** Within three to five minutes, the fire breaches the top of the stud cavities beneath the third-floor roof rafters, igniting the dry attic timbers and mushrooming horizontally across the roof plane.
 - **Structural Floor Collapse:** As the fire consumes the interior face of the continuous studs, the thin 1x4 ribbon boards supporting the second- and third-floor joists burn through, causing sudden, catastrophic floor collapses.
 
-Building codes, including IRC Section R302.11 and IBC Section 718, mandate the installation of non-combustible fireblocking in all historic wood-frame alterations to prevent this vertical chimney effect.
+Building codes, including IRC Section R302.11 and IBC Section 718, mandate the installation of non-combustible fireblocking in all historic wood-frame alterations to prevent this vertical chimney effect. Installing these mechanical barriers halts vertical fire propagation and establishes compartmentalized fire zones.
 
 ---
 
@@ -132,7 +132,7 @@ Permanently remediating an occupied balloon-frame triple-decker does not require
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
-The code-compliant installation requires four sequential steps:
+Executing a code-compliant balloon-frame retrofit requires systematic mechanical preparation. The standard installation workflow follows four sequential jobsite steps:
 - **Basement Mud Sill Inspection:** Technicians work around the basement perimeter, vacuuming loose plaster crumbs, soot, and cobwebs out of the open 3.5" x 14.5" stud pockets located between the floor joists.
 - **Mineral Wool Fireblock Installation:** Cut pieces of dense 3.5-inch non-combustible mineral wool (such as Rockwool Comfortbatt) 1/2-inch wider than the open cavity. Compress the block firmly into the open pocket until it seats tightly against the joist ribbon. Mineral wool is rated under ASTM E136, maintaining structural integrity up to 2,150°F without melting.
 - **Intumescent Air Sealing:** Apply a heavy 3/8-inch bead of ASTM E814/UL 1479 rated intumescent firestop acrylic caulk (such as 3M Fire Barrier CP 25WB+) around the entire perimeter where the mineral wool contacts the wood framing. Under extreme heat, this mastic expands up to three times its volume, choking off oxygen and toxic smoke.
@@ -144,7 +144,7 @@ The code-compliant installation requires four sequential steps:
 
 Once the top and bottom of each continuous stud bay are mechanically fireblocked, the empty hollow cavities are prepared for insulation infill. Pouring low-density fiberglass batts into balloon cavities is completely ineffective; loose fiberglass settles, leaves massive convective bypass channels, and fails to stop air movement.
 
-The industry gold standard is dense-packing loose-fill borate-treated cellulose insulation (such as Applegate or Greenfiber) to a minimum settled density of **3.5 to 3.8 pounds per cubic foot (lbs/cu.ft)**:
+The industry gold standard for hollow cavity retrofit is dense-packing loose-fill borate-treated cellulose insulation (such as Applegate or Greenfiber). Achieving a minimum settled density of **3.5 to 3.8 pounds per cubic foot (lbs/cu.ft)** ensures complete air arrest through three distinct material mechanisms:
 - **Convective Arrest:** At 3.5 lbs/cu.ft, the interlocking wood fibers create an extremely dense, tortuous path that completely chokes off airflow. Convective rolling is arrested, boosting cavity thermal performance from R-1 to R-13.
 - **Natural Borate Fire Retardant:** The cellulose is treated with 100% natural sodium borate minerals. When exposed to flame, the borates release chemically bound water vapor, forming a dense carbonaceous char layer that smothers combustion.
 - **Side-Access Installation:** Crews drill small 2-inch access holes through the exterior wood siding courses under each floor line. Technicians insert a flexible 1.5-inch blowing hose deep into the cavity, slowly packing cellulose upward under positive mechanical pressure until the machine reaches automatic pressure stall.

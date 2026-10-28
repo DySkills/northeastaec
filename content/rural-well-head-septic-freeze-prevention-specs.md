@@ -51,7 +51,7 @@ Dry sand and loose gravel conduct frost more rapidly than damp silt or heavy cla
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
-The most deceptive environmental factor is snowpack management. Undisturbed, fluffy snow has a thermal resistance of roughly R-1.5 to R-2.0 per inch. A two-foot blanket of undisturbed winter snow acts as a massive thermal quilt (R-35 to R-45) that traps geothermal earth heat, keeping the underlying frost line shallow. However, when homeowners clear driveways with snowplows or drive snowmobiles across septic absorption fields, the snow is compacted or removed, allowing cold air to freeze buried infrastructure.
+The most deceptive environmental factor is snowpack management, where undisturbed snow provides an effective thermal resistance of R-1.5 to R-2.0 per inch. A two-foot blanket of undisturbed winter snow acts as a massive thermal quilt (R-35 to R-45) that traps geothermal earth heat, keeping the underlying frost line shallow. However, when homeowners clear driveways or drive snowmobiles across septic fields, the snow is compacted, allowing sub-zero cold to freeze buried infrastructure.
 
 ---
 
@@ -59,7 +59,7 @@ The most deceptive environmental factor is snowpack management. Undisturbed, flu
 
 The connection between the residential drilled well and the subterranean supply pipe is the mechanical focal point of freezing vulnerabilities. Historically, older rural wells terminated in subterranean concrete or stone "well pits." These uninsulated pits frequently flooded with contaminated surface runoff, posing severe bacterial hazards that led modern plumbing codes (IPC Section 305) to mandate pitless adapter assemblies.
 
-In a modern code-compliant well installation:
+In a modern code-compliant well installation, the wellhead assembly must satisfy strict sanitary and thermal standards. Three interconnected components protect the water supply:
 - **Sanitary Well Cap:** The heavy steel well casing extends at least 12 to 18 inches above the highest finished grade and historical flood level, capped with an insect-screened, watertight sanitary well cap.
 - **Pitless Adapter Placement:** The pitless adapter—a precision slide-bracket brass fitting that allows the submersible pump to be lifted via a drop pipe—is installed through a hole cut in the side of the well casing at least 60 to 72 inches below finished grade.
 - **Horizontal Discharge Pipe:** High-density polyethylene (HDPE) water pipe (minimum 200 PSI PE 4710) runs from the pitless adapter through a continuous trench sloped gently back toward the well to eliminate low-spot water pockets.
@@ -90,7 +90,7 @@ In a modern code-compliant well installation:
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
-If ledge rock or high groundwater tables prevent drilling a pitless adapter to the required 60-inch depth, the pipe must be thermally protected using engineered trench wing insulation.
+If ledge rock or high groundwater tables prevent drilling a pitless adapter to the required 60-inch depth, the pipe must be thermally protected using engineered trench wing insulation. This artificial thermal barrier prevents freezing in shallow bedrock trenches.
 
 ---
 
@@ -123,7 +123,7 @@ Standard expanded polystyrene (white beadboard EPS) cannot be used below grade; 
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
-The trench insulation is installed using the "winged" geometry:
+The trench insulation is installed using an engineered "winged" geometry. The installation sequence deflects frost through four physical steps:
 - Excavate the trench as deep as bedrock permits (minimum 36 inches), placing 4 inches of stone-free washed sand around the HDPE water pipe.
 - Backfill soil to within 12 inches above the pipe, compacting lightly.
 - Lay continuous 2-inch or 3-inch thick by 48-inch wide XPS foam boards horizontally across the trench centerline.
@@ -135,7 +135,7 @@ The trench insulation is installed using the "winged" geometry:
 
 Onsite wastewater treatment systems (septic tanks and leach fields) are biological digesters that rely on warm wastewater and microbial metabolic activity to prevent winter freezing. Normal domestic household discharge (showers, dishwashers, laundry) enters the septic tank at temperatures between 75°F and 110°F. Anaerobic bacteria digesting organic solids generate additional metabolic heat, keeping raw sewage in a functioning tank at 45°F to 55°F all winter long.
 
-Freezing occurs when this thermal chain breaks:
+Freezing occurs when this thermal chain breaks during severe winter weather. Three common triggers disrupt the septic system's thermal balance:
 - **Low Occupancy / Vacation Homes:** In second homes or weekend ski chalets, the absence of daily warm wastewater combined with sub-zero air allows the septic tank and distribution box to freeze solid.
 - **Leaking Fixtures and Trickling Water:** A running toilet or dripping faucet sends a slow, continuous trickle of cold water into the unheated septic line. Because trickle flow lacks thermal mass and velocity, it flash-freezes into a sheet of ice along the bottom of the pipe, gradually building up an ice dam that blocks the 4-inch sewer exit.
 - **Compacted Snow Over Absorption Fields:** Driving vehicles or snowmobiles over the septic drain field compacts the snow, driving frost deep into the distribution pipes and freezing perforated lateral lines.
@@ -153,7 +153,7 @@ Freezing occurs when this thermal chain breaks:
 └─────────────────────┴──────────────────┴───────────────────────────────┘
 ```
 
-For elevated sand mounds or shallow absorption trenches in northern zones, installers cap the sand layer with a continuous geotextile fabric topped with a minimum of 12 inches of loose loamy soil and encourage thick, undisturbed snow accumulation to serve as an insulation quilt.
+For elevated sand mounds in northern zones, installers cap the sand layer with geotextile fabric topped with 12 inches of loose loamy soil. Maintaining thick, undisturbed snow accumulation over the mound serves as an essential thermal quilt.
 
 ---
 
@@ -173,7 +173,7 @@ However, resolving frozen underground well pipes or clearing frozen septic mound
 Undisturbed snow acts as a thick insulating blanket (approximately R-2 per inch) that keeps ground frost shallow. When you plow a driveway, you remove this insulating blanket and compact the soil, allowing freezing winter temperatures to penetrate 18 to 24 inches deeper into the earth directly under the driveway crossing.
 
 ### How deep must a well line be buried in northern New England and the Adirondacks?
-In Climate Zone 6A (Maine, New Hampshire, Vermont, and Upstate New York), building codes and local health departments mandate burying water supply lines and pitless adapters at least 60 to 72 inches (5 to 6 feet) below finished grade to stay safely beneath the 54-inch frost line.
+In Climate Zone 6A (Maine, New Hampshire, Vermont, and Upstate New York), codes mandate burying water supply lines and pitless adapters at least 60 to 72 inches below finished grade. This depth ensures plumbing remains safely beneath the 54-inch frost line.
 
 ### What is trench wing insulation, and when is it used?
 Trench wing insulation uses continuous 2-inch-thick by 4-foot-wide sheets of Extruded Polystyrene (XPS) foam laid horizontally above buried water pipes. It is used when shallow bedrock or high groundwater prevents digging a full 6-foot-deep trench, deflecting winter frost outward and keeping the underlying pipe warm.
