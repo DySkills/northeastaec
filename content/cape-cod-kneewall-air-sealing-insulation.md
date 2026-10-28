@@ -98,10 +98,9 @@ There are two code-compliant strategies to repair a Cape Cod knee wall under Int
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
-Executing Strategy A requires three non-negotiable physical steps. Each component must be detailed to ensure continuity between the vertical wall and horizontal floor assemblies:
-- **Floor Joist Cavity Blocking:** Technicians cut blocks of 2-inch foil-faced polyisocyanurate rigid foam or 3/4-inch plywood to fit tightly between every floor joist directly under the vertical knee-wall bottom plate. Each block is sealed along all four edges with expanding polyurethane foam, permanently blocking cold air from washing under the bedroom floor.
-- **Exterior Knee-Wall Sheathing:** Crews fasten continuous 1.5-inch or 2-inch rigid foam board (or structural gypsum) across the cold exterior face of the vertical knee-wall studs, fully encapsulating the cavity insulation. All seams and perimeter edges are taped with high-performance acrylic tape (such as Siga Sicrall or Tescon Vana), creating an impervious air barrier.
-- **Airtight Insulated Access Doors:** The flimsy plywood hatch into the side attic must be replaced with an insulated access door weatherstripped with automotive EPDM bulb gaskets and latched under positive mechanical compression, achieving at least R-13 thermal resistance.
+Executing Strategy A requires establishing an unbroken thermal and pressure boundary connecting the vertical wall to the horizontal floor framing. Technicians cut rigid foil-faced polyisocyanurate foam plugs to seal the joist bays beneath the knee-wall plate, sheath the cold exterior face of the knee-wall studs to prevent convective air-washing, and install compression-latched insulated access hatches.
+
+&rarr; **[Field Guide: Step-by-Step Cape Cod Kneewall Air Sealing & Floor Joist Blocking Guide](cape-cod-kneewall-air-sealing-steps.html)**
 
 ---
 

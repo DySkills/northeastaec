@@ -123,6 +123,41 @@ var miaecData = [
     "url": "articles/brownstone-facade-restoration-mortar-spalling.html"
   },
   {
+    "title": "How to Pin and Patch Delaminated Brownstone with Jahn M70: Step-by-Step Restoration Protocol",
+    "subtitle": "A field-tested jobsite guide to repairing spalling historic sandstone facades: brass hammer sounding, 316 stainless-steel anchor pinning, and Jahn M70 mineral repair mortar application.",
+    "format": "Tutorial",
+    "leadType": "Step-by-Step",
+    "category": "Urban Development",
+    "catSlug": "urban-development",
+    "cities": [
+      "Boston",
+      "Brooklyn",
+      "Hoboken",
+      "Jersey City",
+      "New Haven",
+      "New York",
+      "Newark",
+      "Philadelphia",
+      "Portland",
+      "Providence"
+    ],
+    "states": [
+      "CT",
+      "MA",
+      "ME",
+      "NH",
+      "NJ",
+      "NY",
+      "PA",
+      "RI",
+      "VT"
+    ],
+    "summary": "Step-by-step brownstone facade restoration: Learn how historic preservation masons sound delaminated sandstone, drill 45-degree stainless steel dowel pins, and pack breathable Jahn M70 mineral mortar.",
+    "codeTag": "NPS Preservation Brief 47 / ASTM C144 / NYC LPC Guidelines",
+    "type": "Tutorial",
+    "url": "articles/brownstone-pinning-patching-steps.html"
+  },
+  {
     "title": "Taming the Freezing Cape Cod Bedroom: Knee-Wall Air Sealing & Insulation",
     "subtitle": "Diagnosing convective air loops behind 1.5-story knee walls, rigid blocking in floor joist cavities, and aligning the continuous thermal and pressure boundary.",
     "format": "Feature",
@@ -161,6 +196,41 @@ var miaecData = [
     "codeTag": "IECC Section R402.4.1.1 / ASTM E283 / DOE Building America",
     "type": "Feature",
     "url": "articles/cape-cod-kneewall-air-sealing-insulation.html"
+  },
+  {
+    "title": "Step-by-Step Cape Cod Kneewall Air Sealing & Floor Joist Blocking Guide",
+    "subtitle": "A practical jobsite manual for eliminating freezing second-story bedroom drafts: cutting rigid foam joist plugs, acoustic sealing, and kneewall door weatherstripping.",
+    "format": "Tutorial",
+    "leadType": "Step-by-Step",
+    "category": "Air Barrier",
+    "catSlug": "air-barriers",
+    "cities": [
+      "Boston",
+      "Bridgeport",
+      "Hartford",
+      "New Haven",
+      "New York",
+      "Newark",
+      "Philadelphia",
+      "Providence",
+      "Springfield",
+      "Worcester"
+    ],
+    "states": [
+      "CT",
+      "MA",
+      "ME",
+      "NH",
+      "NJ",
+      "NY",
+      "PA",
+      "RI",
+      "VT"
+    ],
+    "summary": "How to air-seal Cape Cod attic kneewalls: Step-by-step instructions for blocking floor joist cavities, sheathing vertical kneewalls, and insulating attic hatch doors.",
+    "codeTag": "IECC Section R402.4 / IRC Section R806 / ASTM E283",
+    "type": "Tutorial",
+    "url": "articles/cape-cod-kneewall-air-sealing-steps.html"
   },
   {
     "title": "Coastal Cedar Shingle Siding: Freeze-Thaw Defense & Rainscreen WRBs",
@@ -361,6 +431,41 @@ var miaecData = [
     "codeTag": "NPS Preservation Brief 2 / ASTM C144 / ASTM C270",
     "type": "Feature",
     "url": "articles/fieldstone-foundation-repointing-lime-mortar.html"
+  },
+  {
+    "title": "Step-by-Step Fieldstone Foundation Repointing: Joint Raking & NHL 3.5 Packing Protocol",
+    "subtitle": "A practical jobsite guide for restoring ancient stone rubble cellars: chisel joint raking, SSD pre-wet saturation, and packing breathable natural hydraulic lime.",
+    "format": "Tutorial",
+    "leadType": "Step-by-Step",
+    "category": "Water Barrier",
+    "catSlug": "water-barriers",
+    "cities": [
+      "Albany",
+      "Boston",
+      "Hartford",
+      "Manchester",
+      "New Haven",
+      "New York",
+      "Portland",
+      "Providence",
+      "Springfield",
+      "Worcester"
+    ],
+    "states": [
+      "CT",
+      "MA",
+      "ME",
+      "NH",
+      "NJ",
+      "NY",
+      "PA",
+      "RI",
+      "VT"
+    ],
+    "summary": "How to repoint a historic fieldstone foundation: Step-by-step instructions for raking out failing mortar, pre-wetting stone to SSD condition, and packing NHL 3.5 lime mortar.",
+    "codeTag": "NPS Preservation Brief 2 / ASTM C144 / EN 459-1",
+    "type": "Tutorial",
+    "url": "articles/fieldstone-repointing-steps.html"
   },
   {
     "title": "Historic Wood Window Restoration: Why Vinyl Replacements Are a Mistake",

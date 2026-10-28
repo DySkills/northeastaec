@@ -99,31 +99,13 @@ The aggregate specified for repointing historic fieldstone must be clean, sharp,
 
 ---
 
-## Joint Raking, Surface Preparation, and Application Physics
+## Joint Preparation and Historic Packing Principles
 
-Repointing an ancient fieldstone foundation is a labor-intensive, forensic process that cannot be rushed. The structural integrity of the final installation depends almost entirely on the thoroughness of the joint preparation phase:
+Repointing an ancient fieldstone foundation is a labor-intensive, forensic process that cannot be rushed. The structural integrity of the final installation depends almost entirely on joint depth ratios, pre-wetting thermodynamics, and progressive compaction.
 
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│             CORRECT HISTORIC JOINT RAKING & TOOLING PROFILE            │
-│                                                                        │
-│                [ Upper Granite Fieldstone Boulder ]                    │
-│                                                                        │
-│     Joint Depth: 2x Width (Min 1.5")    Flush or Recessed Tooling      │
-│     ==================================  ========================       │
-│     |  DAMP SOUND BEDDING MORTAR     |  | NHL 3.5 LIME PACKED  |       │
-│     |  (Pre-Wetted Before Packing)   |  | IN 3/8" DENSE LIFTS  |       │
-│     ==================================  ========================       │
-│                                                                        │
-│                [ Lower Granite Fieldstone Boulder ]                    │
-└────────────────────────────────────────────────────────────────────────┘
-```
+Preservation standards mandate extracting degraded mortar to a depth of at least twice the joint width using manual cape chisels rather than high-speed angle grinders that damage boulder edges. Stones must be pre-wet for 24 hours to a Surface Saturated Dry (SSD) condition to prevent dry stone from desorbing water out of the fresh lime paste.
 
-Technicians must systematically execute four mechanical steps. Following this sequence guarantees that fresh hydraulic lime bonds securely to the stone substrate:
-- **Manual Joint Raking:** Rake out deteriorated, powdery mortar to a depth of at least twice the width of the joint (minimum 1.5 to 2 inches deep). Never use high-speed angle grinders with abrasive diamond wheels on fieldstone; rotating blades will inevitably cut into historic stone edges. All joint extraction must be executed using small pneumatic chisels or manual mason's cape chisels.
-- **Debris Purging:** Clear loose sand, dirt, and stone chips from deep within the wall cavity using a heavy HEPA-filtered vacuum and low-pressure water flushing.
-- **Pre-Wet Saturation:** Thoroughly saturate the stone joints with clean water for 24 hours prior to pointing, maintaining a Surface Saturated Dry (SSD) condition. If dry, thirsty stone absorbs water out of the fresh lime mortar mix, the lime will desorb prematurely, leading to weak, crumbly joints that fail to hydrate.
-- **Progressive Lift Packing:** Pack the stiff NHL 3.5 mortar into deep crevices using narrow tuck-pointing trowels in successive 3/8-inch layers (lifts). Allow each lift to achieve thumb-print hardness before applying subsequent layers, compacting firmly to eliminate internal air pockets.
+&rarr; **[Field Guide: Step-by-Step Fieldstone Foundation Repointing & NHL 3.5 Packing Protocol](fieldstone-repointing-steps.html)**
 
 ---
 

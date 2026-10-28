@@ -95,46 +95,13 @@ Modern architectural conservation mandates engineered single-component mineral r
 
 ---
 
-## Mechanical Anchoring, Pinning, and Step-by-Step Patching
+## Mechanical Anchoring & Stainless Pinning Engineering
 
-Repairing delaminated brownstone using Jahn M70 requires meticulous mechanical preparation and multi-layered pinning to ensure structural permanence. Masons follow a strict four-step conservation protocol:
+Restoring delaminated sandstone requires combining chemical compatibility with mechanical anchoring. Because weathered parent stone has lost surface tensile strength, surface mortar patches deeper than 3/4 inch will shear off under freeze-thaw thermal contraction unless pinned directly into sound interior substrate.
 
-### Step 1: Sounding and Delamination Removal
-Technicians systematically tap every square inch of the facade with a light brass tapping hammer. Hollow, drum-like sounds reveal hidden subsurface delamination. All loose, spalling stone is chipped away with manual chisels until sound, unweathered parent sandstone is reached.
+Preservation engineers mandate 316-grade threaded stainless steel dowels anchored at alternating 45-degree angles with structural epoxy. An integrated stainless tie wire grid connects the pin heads, forming an internal skeleton that anchors the mineral mortar without creating rigid thermal stress concentrations.
 
-### Step 2: Mechanical Drilling and Stainless-Steel Pinning
-For patches exceeding 3/4-inch in depth, chemical adhesion alone is insufficient; mechanical pinning is mandatory. The reinforcement system anchors the repair directly into sound substrate:
-- Drill holes into the sound stone substrate at staggered 45-degree angles on 6-inch to 8-inch grids.
-- Insert threaded 316-grade stainless-steel or brass dowel pins (1/8-inch to 1/4-inch diameter), set securely with structural epoxy anchor adhesive.
-- Weave non-corrosive stainless-steel tie wire across the pin heads to form an embedded reinforcement cage recessed at least 1/2-inch below the finished stone surface.
-
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│             CROSS-SECTION OF JAHN M70 STAINLESS PINNING DETAIL         │
-│                                                                        │
-│                [ Sound Parent Brownstone Substrate ]                   │
-│                                   ||                                   │
-│     ============================================================       │
-│     |    Drilled 45° Hole with Structural Epoxy Adhesive       |       │
-│     |    [ Threaded 316 Stainless Steel Pin Embedded 2" ]      |       │
-│     ============================================================       │
-│                                   ||                                   │
-│                        Stainless Tie Wire Grid                         │
-│                                   \/                                   │
-│     [ JAHN M70 MINERAL REPAIR MORTAR ] ====> Hand-Sculpted to Profile  │
-│     (Packed in 1/2" Dense Lifts)             Tooled to Match Historic  │
-│     ==================================       Texture & Color Wash      │
-└────────────────────────────────────────────────────────────────────────┘
-```
-
-### Step 3: Slurry Coat and Progressive Mortar Packing
-Saturate the stone substrate with clean water until it reaches a Surface Saturated Dry (SSD) condition. Scrub a thin slurry coat of Jahn M70 into the porous stone pores using a stiff nylon brush to establish microscopic mechanical interlock. Pack the stiff mortar firmly into the void in successive 1/2-inch to 3/4-inch lifts, compacting vigorously around the stainless pins to eliminate internal voids.
-
-### Step 4: Architectural Tooling and Curing
-Allow the mortar to achieve an initial thumb-print set before commencing final architectural tooling. Craftspeople shape the repair to blend seamlessly with surrounding historic masonry:
-- Carve and profile the green mortar with steel scrapers and molding rasps to match adjacent historic decorative cornices, belt courses, and fluting.
-- Rub the surface with a coarse abrasive sponge or damp burlap to recreate the authentic matte texture of quarry-cut stone.
-- Protect the fresh repair with damp burlap and polyethylene sheeting for a minimum of 72 hours, misting daily to ensure complete mineral carbonation.
+&rarr; **[Field Guide: Step-by-Step Brownstone Pinning, Drilling & Jahn M70 Patching Protocol](brownstone-pinning-patching-steps.html)**
 
 ---
 

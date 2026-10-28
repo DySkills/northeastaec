@@ -5,7 +5,7 @@
     <link>https://northeastaec.com</link>
     <description>Independent building science publication analyzing historic fieldstone basement restoration, Cape Cod knee wall air-sealing, slate roof preservation, and fuel oil to cold-climate heat pump decarbonization across the Northeast.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 03:19:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 05:16:44 GMT</lastBuildDate>
     <atom:link href="https://northeastaec.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Balloon-Frame Firestop Autopsy: Boston Triple-Deckers &amp; Victorians</title>
@@ -29,11 +29,25 @@
       <category>Urban Development</category>
     </item>
     <item>
+      <title>How to Pin and Patch Delaminated Brownstone with Jahn M70: Step-by-Step Restoration Protocol</title>
+      <link>https://northeastaec.com/articles/brownstone-pinning-patching-steps.html</link>
+      <guid isPermaLink="true">https://northeastaec.com/articles/brownstone-pinning-patching-steps.html</guid>
+      <description>Step-by-step brownstone facade restoration: Learn how historic preservation masons sound delaminated sandstone, drill 45-degree stainless steel dowel pins, and pack breathable Jahn M70 mineral mortar.</description>
+      <category>Urban Development</category>
+    </item>
+    <item>
       <title>Taming the Freezing Cape Cod Bedroom: Knee-Wall Air Sealing &amp; Insulation</title>
       <link>https://northeastaec.com/articles/cape-cod-kneewall-air-sealing-insulation.html</link>
       <guid isPermaLink="true">https://northeastaec.com/articles/cape-cod-kneewall-air-sealing-insulation.html</guid>
       <description>Air-seal freezing Cape Cod knee walls in Climate Zones 5 and 6: Floor joist blocking, rigid foam air barriers, rafter baffles, and conditioned storage conversions.</description>
       <category>Air Barriers</category>
+    </item>
+    <item>
+      <title>Step-by-Step Cape Cod Kneewall Air Sealing &amp; Floor Joist Blocking Guide</title>
+      <link>https://northeastaec.com/articles/cape-cod-kneewall-air-sealing-steps.html</link>
+      <guid isPermaLink="true">https://northeastaec.com/articles/cape-cod-kneewall-air-sealing-steps.html</guid>
+      <description>How to air-seal Cape Cod attic kneewalls: Step-by-step instructions for blocking floor joist cavities, sheathing vertical kneewalls, and insulating attic hatch doors.</description>
+      <category>Air Barrier</category>
     </item>
     <item>
       <title>Coastal Cedar Shingle Siding: Freeze-Thaw Defense &amp; Rainscreen WRBs</title>
@@ -69,6 +83,13 @@
       <guid isPermaLink="true">https://northeastaec.com/articles/fieldstone-foundation-repointing-lime-mortar.html</guid>
       <description>Restore historic Northeast fieldstone and rubble basements: Why Portland cement causes spalling and stone fracture, NHL 3.5 lime chemistry, and interior drainage.</description>
       <category>Water Barriers</category>
+    </item>
+    <item>
+      <title>Step-by-Step Fieldstone Foundation Repointing: Joint Raking &amp; NHL 3.5 Packing Protocol</title>
+      <link>https://northeastaec.com/articles/fieldstone-repointing-steps.html</link>
+      <guid isPermaLink="true">https://northeastaec.com/articles/fieldstone-repointing-steps.html</guid>
+      <description>How to repoint a historic fieldstone foundation: Step-by-step instructions for raking out failing mortar, pre-wetting stone to SSD condition, and packing NHL 3.5 lime mortar.</description>
+      <category>Water Barrier</category>
     </item>
     <item>
       <title>Historic Wood Window Restoration: Why Vinyl Replacements Are a Mistake</title>
