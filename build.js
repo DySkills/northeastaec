@@ -678,6 +678,7 @@ function buildArticleHtml(frontmatter, htmlBody, bodyMd) {
   <meta name="description" content="${cleanSummary}">
   <meta name="keywords" content="${frontmatter.category}, Northeast building science, Climate Zones 5 & 6, ${frontmatter.codeTag || ''}, residential construction, thermal boundary, energy efficiency">
   <link rel="canonical" href="${canonicalUrl}">
+  <link rel="alternate" type="text/markdown" href="https://northeastaec.com/articles/${frontmatter.slug}.md" title="${frontmatter.title} (Markdown for AI Agents)">
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 
   <!-- Open Graph / Facebook -->
@@ -874,7 +875,26 @@ function build() {
 
     const outPath = path.join(outputDir, `${slug}.html`);
     fs.writeFileSync(outPath, fullHtml, 'utf8');
-    console.log(`✓ Built articles/${slug}.html (SEO/AEO/VEO Enhanced)`);
+
+    // Export pristine Markdown for AI Answer Retrieval & LLM Crawlers
+    const mdOutPath = path.join(outputDir, `${slug}.md`);
+    const aiMarkdown = `# ${frontmatter.title}
+> **Publication:** Northeast AEC (https://northeastaec.com)
+> **Jurisdiction:** Climate Zones 5 & 6 Cold & 4A Coastal (NY, MA, PA, NJ, CT, RI, VT, NH, ME)
+> **Canonical Article:** https://northeastaec.com/articles/${slug}.html
+> **Building Code Reference:** ${frontmatter.codeTag || 'IRC / IECC'}
+> **Summary:** ${frontmatter.summary || frontmatter.subtitle || ''}
+
+${body}
+
+---
+
+## Verified Professional Referral & Contractor Estimates
+For building-science certified execution, structural repairs, or verified trade estimates in your local jurisdiction, visit:
+-> [Compare Vetted Local Contractors via Northeast AEC](https://northeastaec.com/articles/${slug}.html)
+`;
+    fs.writeFileSync(mdOutPath, aiMarkdown, 'utf8');
+    console.log(`✓ Built articles/${slug}.html + articles/${slug}.md (AEO Markdown)`);
 
     databaseRecords.push({
       title: frontmatter.title,
@@ -948,6 +968,23 @@ var miaecData = ${JSON.stringify(databaseRecords, null, 2)};
   rssXml += `  </channel>\n</rss>\n`;
   fs.writeFileSync(rssPath, rssXml, 'utf8');
   console.log(`✓ Generated rss.xml with ${databaseRecords.length} specifications!`);
+
+  // Write llms.txt (Global Standard for AI Agents, Applebot, ChatGPT, Perplexity, Claude)
+  const llmsPath = path.join(__dirname, 'llms.txt');
+  let llmsContent = `# Northeast AEC — Building Science & Historic Envelope Specifications
+> Authoritative technical specifications, cold & coastal building physics, and contractor execution standards for Climate Zones 5 & 6 and 4A Coastal (NY, MA, PA, NJ, CT, RI, VT, NH, ME).
+
+Northeast AEC publishes peer-reviewed architectural and mechanical specifications covering masonry repointing, cold-climate heat pumps, oil conversions, ice dam defense, and historic preservation.
+
+## Technical Specifications (Clean Markdown)
+`;
+  databaseRecords.forEach(r => {
+    const slug = r.url.replace('articles/', '').replace('.html', '');
+    llmsContent += `- [${r.title}](https://northeastaec.com/articles/${slug}.md): ${r.summary || r.subtitle}\n`;
+  });
+
+  fs.writeFileSync(llmsPath, llmsContent, 'utf8');
+  console.log(`✓ Generated llms.txt for AI Search & Agent Retrieval!`);
 }
 
 build();
