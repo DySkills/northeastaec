@@ -28,7 +28,7 @@ referralHook: "Historic Masonry & Brownstone Restoration Contractor Match"
 
 ## Required Tools & Historic Restoration Materials
 
-Before commencing stone restoration, assemble certified preservation materials conforming to ASTM and NPS guidelines:
+Before commencing stone restoration, assemble certified preservation materials conforming to ASTM and NPS guidelines. Having all tools staged in advance prevents premature setting of mixed repair mortars:
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -120,11 +120,11 @@ Jahn M70 is a laboratory-engineered, single-component mineral mortar formulated 
 Any brownstone patch exceeding 3/4-inch in depth or 6 inches in diameter requires mechanical stainless steel pinning. In cold climates, wind vibration and freeze-thaw expansion will break the bond of unpinned patches, causing large chunks of stone to fall onto sidewalks below.
 
 ### How long does a properly pinned Jahn M70 brownstone repair last?
-When executed with 316-grade stainless steel dowels, proper SSD substrate pre-wetting, and 72-hour controlled damp curing, a Jahn M70 restoration delivers an expected service life of 30 to 50+ years, performing identically to the parent sandstone.
+When executed with 316-grade stainless steel dowels, proper SSD substrate pre-wetting, and 72-hour controlled damp curing, a Jahn M70 restoration delivers an expected service life of 30 to 50+ years, performing identically to the parent sandstone. This longevity matches or exceeds the natural weathering cycle of original quarry-faced masonry.
 
 ---
 
-### Related Building Science Guides
+## Related Building Science Guides
 - **Brownstone Facade Physics:** &rarr; [Read: Pre-War Brownstone & Historic Brick Envelope Restoration: Repointing & Spalling](brownstone-facade-restoration-mortar-spalling.html)
 - **Fieldstone Repointing Protocol:** &rarr; [Read: Fieldstone Foundation Repointing: NHL 3.5 Lime Mortar Guidelines](fieldstone-foundation-repointing-lime-mortar.html)
 - **Historic Wood Windows:** &rarr; [Read: Historic Wood Window Restoration vs. Replacement](historic-wood-window-restoration-vs-replacement.html)

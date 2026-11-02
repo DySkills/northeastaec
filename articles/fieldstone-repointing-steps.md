@@ -54,7 +54,7 @@ Once the deteriorated mortar is loosened, thoroughly clear all dust, loose sand,
 
 Use a heavy-duty HEPA-filtered vacuum equipped with a narrow crevice wand to pull sand out of the deep pockets. Follow with low-pressure water rinsing using a garden hose or pressure spray bottle to wash remaining dust out of the joints.
 
-Allow excess rinse water to drain completely from the cellar floor before mixing your mortar.
+Allow excess rinse water to drain completely from the cellar floor before mixing your mortar. Inspecting the joint crevices ensures no standing puddles remain to dilute the fresh lime mix.
 
 ---
 
@@ -64,7 +64,7 @@ Historic fieldstone boulders are extremely porous and act like dry sponges. If y
 
 Thoroughly mist the stone joints with clean water multiple times over a 24-hour period prior to repointing. Achieve a **Surface Saturated Dry (SSD)** condition: the stone interior is fully saturated with water, but the exterior surface displays no standing liquid droplets.
 
-Test the stone surface with your bare hand: it should feel cool and damp to the touch without leaving liquid water on your skin.
+Test the stone surface with your bare hand: it should feel cool and damp to the touch without leaving liquid water on your skin. If the stone feels warm and powdery, re-apply a light misting spray across the entire wall section.
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -98,7 +98,7 @@ Build up deep joints in successive **3/8-inch lifts**. Allow each lift to achiev
 
 Pack the final lift flush with the stone faces or recessed 1/8-inch behind the boulder edges. Never smear mortar over the face of the stone boulders—this creates unsightly "feathered edges" that crack and peel away within two winters.
 
-Once the surface mortar firms up, scrub the joints lightly with a stiff natural bristle horsehair brush to expose the sand aggregate and eliminate slick trowel marks.
+Once the surface mortar firms up, scrub the joints lightly with a stiff natural bristle horsehair brush to expose the sand aggregate and eliminate slick trowel marks. This brushing technique creates an authentic weathered profile that blends seamlessly with historic masonry.
 
 Hydraulic lime cures through slow carbonation with atmospheric carbon dioxide. Hang damp burlap sheeting over the freshly pointed walls and mist lightly once daily for 7 days to maintain humidity and prevent rapid drying shrinkage.
 
@@ -120,7 +120,7 @@ Repointing stabilizes the structural stone matrix and eliminates subterranean ai
 
 ---
 
-### Related Building Science Guides
+## Related Building Science Guides
 - **Fieldstone Foundation Physics:** &rarr; [Read: Restoring 1800s Fieldstone & Rubble Basements: Lime Mortar Guidelines](fieldstone-foundation-repointing-lime-mortar.html)
 - **Sub-Slab Drainage Systems:** &rarr; [Read: Interior Sub-Slab Perimeter Drain Tiles & Sump Basin Specs](sub-slab-drain-tile-sump-specs-historic-basements.html)
 - **Historic Brownstone Preservation:** &rarr; [Read: Pre-War Brownstone & Historic Brick Envelope Restoration](brownstone-facade-restoration-mortar-spalling.html)

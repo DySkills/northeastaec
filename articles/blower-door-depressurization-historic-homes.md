@@ -123,7 +123,7 @@ On days with a minimum 20°F indoor-to-outdoor temperature differential, audit t
 
 Once the blower door audit concludes, the final step is translating raw CFM50 measurements into normalized building science metrics. A raw CFM50 reading alone does not indicate whether a home is tight or leaky; it must be evaluated relative to the building's physical interior volume.
 
-The calculation for Air Changes per Hour at 50 Pascals is expressed mathematically as:
+The calculation for Air Changes per Hour at 50 Pascals is expressed mathematically as follows. This standard equation converts air leakage volume into an hourly building exchange rate:
 $$\text{ACH50} = \frac{\text{CFM50} \times 60}{\text{Conditioned Volume (cu. ft.)}}$$
 
 ```

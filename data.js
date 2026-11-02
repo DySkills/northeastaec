@@ -43,6 +43,46 @@ var miaecData = [
     "url": "articles/balloon-frame-firestop-autopsy-triple-deckers.html"
   },
   {
+    "title": "Legal Basement Finishing: Cutting Egress Windows in Northeast Basements, IRC R310 Codes & Foundation Structural Framing",
+    "subtitle": "Adding legal living space to a Northeast basement requires cutting through 8 to 12 inches of reinforced concrete, rock-faced block, or historic stone. Here is the forensic engineering guide to IRC Section R310 compliance, diamond saw cutting, point load lintels, and frost-depth window well drainage.",
+    "format": "Report",
+    "leadType": "Fact-First",
+    "category": "Envelope",
+    "catSlug": "envelopes",
+    "cities": [
+      "Boston",
+      "New York City",
+      "Philadelphia",
+      "Buffalo",
+      "Albany",
+      "Providence",
+      "Hartford",
+      "Burlington",
+      "Portland",
+      "Manchester",
+      "Pittsburgh",
+      "Worcester",
+      "New Haven",
+      "Rochester",
+      "Syracuse"
+    ],
+    "states": [
+      "NY",
+      "MA",
+      "PA",
+      "NJ",
+      "CT",
+      "RI",
+      "VT",
+      "NH",
+      "ME"
+    ],
+    "summary": "Converting an unfinished Northeast cellar into a legal bedroom or living suite delivers exceptional square footage ROI. However, building officials strictly enforce IRC Section R310 emergency escape requirements before granting occupancy. We analyze 5.7 square foot net clear openings, track-mounted diamond wet cutting through granite aggregate, structural steel angle lintels under heavy timber sills, and frost-line window well drainage connected to sub-slab sump networks.",
+    "codeTag": "IRC Section R310 / Massachusetts 780 CMR / NYCRR Part 1220 / ACI 318",
+    "type": "Report",
+    "url": "articles/basement-egress-window-cutting.html"
+  },
+  {
     "title": "Blower Door Depressurization Testing for Historic Northeast Homes",
     "subtitle": "A step-by-step diagnostic manual for calibrating 50 Pa depressurization audits, theatrical smoke tracing, and locating hidden stack-effect leakage in plaster-and-lath envelopes.",
     "format": "Tutorial",
@@ -655,6 +695,46 @@ var miaecData = [
     "codeTag": "ASHRAE Standard 160 / ASTM E96 / IECC Section C402",
     "type": "Feature",
     "url": "articles/interior-masonry-insulation-dew-point-wufi.html"
+  },
+  {
+    "title": "Load-Bearing Wall Removal in Northeast Homes: Sizing LVL Beams, Multi-Story Shoring & High-Snow-Load Engineering",
+    "subtitle": "Creating an open-concept living space in a Northeast colonial, split-level, or historic balloon frame requires transferring massive gravity loads. Here is the forensic engineering guide to sizing LVL beams, erecting dual temporary shoring walls, and tracing point loads to basement footings.",
+    "format": "Report",
+    "leadType": "Fact-First",
+    "category": "Envelope",
+    "catSlug": "envelopes",
+    "cities": [
+      "Boston",
+      "New York City",
+      "Philadelphia",
+      "Buffalo",
+      "Albany",
+      "Providence",
+      "Hartford",
+      "Burlington",
+      "Portland",
+      "Manchester",
+      "Pittsburgh",
+      "Worcester",
+      "New Haven",
+      "Rochester",
+      "Syracuse"
+    ],
+    "states": [
+      "NY",
+      "MA",
+      "PA",
+      "NJ",
+      "CT",
+      "RI",
+      "VT",
+      "NH",
+      "ME"
+    ],
+    "summary": "Removing an interior load-bearing partition is the most popular architectural modification in Northeast home renovation. However, replacing a continuous stud wall with an engineered beam requires precise tributary load calculations that account for 30 to 60 PSF regional snow loads. We examine multi-ply 1-3/4 inch LVL sizing, flush versus drop beam framing, dual shoring wall erection, and continuous point load tracing through floor assemblies down to dedicated concrete spread footings.",
+    "codeTag": "IRC Section R502 / IBC Chapter 16 / ASTM D5456 / Massachusetts 780 CMR",
+    "type": "Report",
+    "url": "articles/load-bearing-wall-removal-lvl.html"
   },
   {
     "title": "Low-E Interior Storm Panels vs Whole-Window Replacements: 5 Key Comparisons",

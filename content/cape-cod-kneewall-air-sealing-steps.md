@@ -28,7 +28,7 @@ referralHook: "Attic Insulation & Air Sealing Contractor Match"
 
 ## Required Tools & Materials for Kneewall Air Sealing
 
-Assemble materials designed to maintain permanent flexibility and airtight bonds in unheated attic environments:
+Assemble materials designed to maintain permanent flexibility and airtight bonds in unheated attic environments. Having these components prepared prevents delays while expanding foam cures inside open joist cavities:
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -55,7 +55,7 @@ Access the triangular side attic space through the knee-wall hatch. Wear a certi
 
 Move loose items out of the attic space and inspect the condition of any existing fiberglass batt insulation. If existing batts are black and covered with soot-like grime, this indicates heavy air movement—the fiberglass has been acting as a dirty furnace filter for indoor air leaks.
 
-Pull back fiberglass batts from the bottom plate of the vertical knee wall and expose the open floor joist cavities beneath the bedroom floor.
+Pull back fiberglass batts from the bottom plate of the vertical knee wall and expose the open floor joist cavities beneath the bedroom floor. Vacuum away accumulated construction dust so adhesive tapes and polyurethane foams can bond directly to clean wood framing.
 
 ---
 
@@ -65,7 +65,7 @@ Measure the exact height and width of each floor joist bay directly beneath the 
 
 Mark dimensions onto 2-inch foil-faced polyisocyanurate rigid foam board. Cut each joist plug 1/4-inch smaller than the bay opening using a sharp utility knife and straightedge, allowing room for expanding foam sealant around the perimeter.
 
-If plumbing pipes or electrical wiring pass through the joist bay, notch the foam plug carefully to fit around the penetrations.
+If plumbing pipes or electrical wiring pass through the joist bay, notch the foam plug carefully to fit around the penetrations. Fill any remaining gaps around wires and pipes with a generous bead of low-expansion canned foam.
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -103,7 +103,7 @@ Ensure the foam expands completely to bridge the gap against the subfloor, adjac
 
 ## Step 4: Sheathing & Taping the Cold Knee-Wall Face
 
-Traditional Cape Cod kneewalls leave the exterior face of fiberglass batts completely exposed to cold side-attic air, allowing cold convective air loops to strip thermal resistance.
+Traditional Cape Cod kneewalls leave the exterior face of fiberglass batts completely exposed to cold side-attic air, allowing cold convective air loops to strip thermal resistance. Adding a rigid exterior cap encapsulates the insulation and creates a robust secondary air barrier.
 
 Install continuous 1.5-inch or 2-inch rigid foam board across the cold exterior face of the vertical knee-wall studs, fully enclosing the wall cavity insulation. Secure the foam boards to the wood studs using 2-inch plastic cap screws or drywall screws with large plastic washers.
 
@@ -115,7 +115,7 @@ Seal all horizontal and vertical joints between foam boards using high-adhesion 
 
 The final weak link in the knee-wall boundary is the access hatch into the side attic. Traditional uninsulated plywood hatches leak hundreds of CFM of cold air directly into the bedroom.
 
-Glue two layers of 2-inch foil-faced polyisocyanurate rigid foam (R-13 per layer, R-26 total) to the back of the plywood door panel using expanding foam adhesive.
+Glue two layers of 2-inch foil-faced polyisocyanurate rigid foam (R-13 per layer, R-26 total) to the back of the plywood door panel using expanding foam adhesive. Trim the foam edges back 1/2 inch to ensure the insulated plug clears the jamb when swinging closed.
 
 Install high-grade automotive EPDM rubber bulb gaskets along all four sides of the door jamb. Fasten heavy-duty mechanical turn latches or cabinet sash locks that pull the door tightly against the bulb gasket under positive compression when closed.
 
@@ -137,7 +137,7 @@ No. Fiberglass batt insulation is air-permeable; wind blows right through it lik
 
 ---
 
-### Related Building Science Guides
+## Related Building Science Guides
 - **Cape Cod Thermodynamics:** &rarr; [Read: The Freezing Cape Cod Bedroom: Air Sealing Knee Walls & Baffles](cape-cod-kneewall-air-sealing-insulation.html)
 - **Blower Door Audits:** &rarr; [Read: Blower Door Diagnostic Walkthrough in Historic Northeast Homes](blower-door-depressurization-historic-homes.html)
 - **Nor'easter Ice Dam Prevention:** &rarr; [Read: Lake-Effect Snow & Nor'easter Eave Ice Dam Mitigation](ice-dam-mitigation-nor-easter-roofing.html)
